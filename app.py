@@ -606,19 +606,16 @@ def customer_detail_view(scored, digital, calls, branch):
                          key=f"approve_{cid}"):
                 if "approved" not in actions:
                     actions.append("approved")
-                st.toast(f"Outreach approved — queued for send to {row['name']}", icon="✓")
                 st.rerun()
         with b2:
             if st.button("Assign to banker", use_container_width=True, key=f"assign_{cid}"):
                 if "assigned" not in actions:
                     actions.append("assigned")
-                st.toast("Assigned to relationship banker", icon="→")
                 st.rerun()
         with b3:
             if st.button("Snooze 30 days", use_container_width=True, key=f"snooze_{cid}"):
                 if "snoozed" not in actions:
                     actions.append("snoozed")
-                st.toast("Snoozed for 30 days", icon="⏱")
                 st.rerun()
 
     # --- Extracted call intent ---
