@@ -2,6 +2,8 @@
 
 Working prototype for a bank's mortgage retention workflow, built as part of a case-study submission.
 
+**Live demo:** [mortgagechurn-northslope.streamlit.app](https://mortgagechurn-northslope.streamlit.app/) · Or jump straight to a hero customer: [Julie Johnson](https://mortgagechurn-northslope.streamlit.app/?customer=C0105859) (52% churn risk, $827K balance, all three call signals + rate gap)
+
 **All data is synthetic.** This prototype exists to demonstrate the end-to-end workflow — from raw bank data through churn prediction, economic prioritization, and AI-recommended next-best-action, delivered to a banker through a lightweight operational UI. The model metrics reflect how the synthetic data was generated and should not be interpreted as evidence of production performance.
 
 ---
