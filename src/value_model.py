@@ -23,8 +23,9 @@ EFFECTIVE_NIM = NET_INTEREST_MARGIN * NIM_KEPT_AFTER_CONCESSION  # 0.00975
 # Average remaining life of a retained mortgage, capped conservatively below
 # the contractual remaining term to reflect prepayment and moves.
 LIFE_CAP_YEARS = 7.0
-# Simple discount factor applied to the NIM stream (assume ~0.9 blended).
-DISCOUNT_FACTOR = 0.9
+# Present-value factor for the retained NIM stream.
+# 0.74 = PV of a 7-year annuity at ~8% WACC — matches the Slide 2 model.
+DISCOUNT_FACTOR = 0.74
 # Additional relationship value uplift when the customer holds deposits and
 # cross-sold products — churn of the mortgage often triggers wider attrition.
 RELATIONSHIP_MULTIPLIER = 1.15
