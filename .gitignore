@@ -1,0 +1,21 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Claude Code local settings (personal to dev machine, not for public repo)
+.claude/
+
+# Intermediate pipeline artifacts (regeneratable via `python -m src.feature_engineering` etc.)
+data/features.csv
+data/predictions.csv
+models/feature_importance.csv
+models/feature_list.txt
+models/metrics.txt
+
+# Deck-adjacent files (should not be in code repo — kept in the sibling Deck folder)
+*.xlsx
+~$*.xlsx

@@ -1,0 +1,1592 @@
+customer_id,timestamp,branch_id,interaction_type,banker_note,mortgage_discussion_flag,rate_discussion_flag,refinancing_discussion_flag
+C0100000,2026-08-17 14:04:52.364422,B114,GENERAL,Discussed CD options.,0,0,0
+C0100008,2026-06-18 21:58:01.933774,B064,GENERAL,Client came in to update address on file.,0,0,0
+C0100016,2026-08-11 02:49:15.131394,B060,GENERAL,Signed paperwork for savings account.,0,0,0
+C0100022,2026-08-15 05:29:06.156883,B075,TELLER,Client came in to update address on file.,0,0,0
+C0100026,2026-08-04 01:24:25.359078,B045,TELLER,Discussed CD options.,0,0,0
+C0100029,2026-06-29 01:25:57.502886,B058,ACCOUNT_SERVICE,Client came in to update address on file.,0,0,0
+C0100031,2026-09-07 02:57:15.539182,B056,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0100033,2026-07-02 21:40:49.247579,B043,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,0,1
+C0100034,2026-08-28 00:55:31.143484,B037,GENERAL,Signed paperwork for savings account.,0,0,0
+C0100038,2026-08-01 21:48:55.266223,B043,TELLER,Signed paperwork for savings account.,0,0,0
+C0100039,2026-06-22 20:14:22.769730,B041,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0100041,2026-07-12 08:02:12.364035,B037,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0100043,2026-09-07 07:56:52.601348,B096,ACCOUNT_SERVICE,Client came in to update address on file.,0,0,0
+C0100053,2026-09-07 18:07:55.551337,B005,GENERAL,Signed paperwork for savings account.,0,0,0
+C0100054,2026-07-10 15:03:34.998791,B085,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,1,1
+C0100061,2026-07-29 03:50:37.687632,B067,ACCOUNT_SERVICE,Discussed CD options.,0,0,0
+C0100064,2026-06-18 09:34:46.673806,B080,TELLER,Discussed CD options.,0,0,0
+C0100080,2026-07-07 15:20:57.360572,B052,TELLER,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0100094,2026-08-27 23:52:39.102831,B101,ACCOUNT_SERVICE,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0100104,2026-06-20 17:44:52.554129,B002,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,0,1
+C0100120,2026-06-30 11:41:16.563597,B032,TELLER,Discussed CD options.,0,0,0
+C0100129,2026-07-09 06:29:15.595614,B050,GENERAL,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0100130,2026-06-23 06:52:20.951516,B045,ACCOUNT_SERVICE,Client came in to update address on file.,0,0,0
+C0100131,2026-07-26 14:30:34.450602,B083,TELLER,Client came in to update address on file.,0,0,0
+C0100139,2026-08-30 15:12:10.023822,B029,GENERAL,Discussed CD options.,0,0,0
+C0100143,2026-08-11 19:58:40.775292,B078,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,0,1
+C0100145,2026-08-05 18:41:05.370847,B063,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0100159,2026-08-15 20:55:47.698963,B007,GENERAL,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0100165,2026-08-10 21:35:18.416515,B020,ACCOUNT_SERVICE,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0100171,2026-08-28 15:29:06.587304,B039,TELLER,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0100174,2026-09-10 01:23:04.895443,B070,TELLER,Signed paperwork for savings account.,0,0,0
+C0100179,2026-06-16 13:47:23.536833,B040,GENERAL,Client came in to update address on file.,0,0,0
+C0100187,2026-06-28 05:05:08.705645,B012,TELLER,Discussed CD options.,0,0,0
+C0100188,2026-07-27 23:24:05.873659,B051,GENERAL,Discussed CD options.,0,0,0
+C0100194,2026-08-21 14:31:39.636518,B036,GENERAL,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0100204,2026-07-03 08:05:41.135057,B047,GENERAL,Client came in to update address on file.,0,0,0
+C0100205,2026-06-16 04:06:20.107209,B027,TELLER,Discussed CD options.,0,0,0
+C0100208,2026-06-26 11:57:10.070881,B008,ACCOUNT_SERVICE,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0100224,2026-07-11 22:08:18.315239,B055,ACCOUNT_SERVICE,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0100226,2026-08-01 16:29:57.288464,B049,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,1,1
+C0100229,2026-07-23 19:32:09.236464,B099,ACCOUNT_SERVICE,Signed paperwork for savings account.,0,0,0
+C0100245,2026-08-02 13:43:00.332041,B016,ACCOUNT_SERVICE,Client came in to update address on file.,0,0,0
+C0100257,2026-08-19 09:58:00.359233,B049,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,1,1
+C0100274,2026-06-23 20:12:25.310678,B007,ACCOUNT_SERVICE,Discussed CD options.,0,0,0
+C0100277,2026-09-10 14:18:08.714250,B016,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,1,1
+C0100280,2026-07-10 18:08:27.336576,B053,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,0,1
+C0100290,2026-08-03 04:06:38.811546,B050,ACCOUNT_SERVICE,Signed paperwork for savings account.,0,0,0
+C0100292,2026-07-17 02:05:36.764929,B054,ACCOUNT_SERVICE,Client came in to update address on file.,0,0,0
+C0100299,2026-08-08 11:04:10.037595,B080,TELLER,Signed paperwork for savings account.,0,0,0
+C0100302,2026-06-15 22:51:22.129894,B064,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,0,1
+C0100304,2026-08-06 21:16:23.999092,B017,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,0,1
+C0100314,2026-07-21 04:20:44.374835,B117,GENERAL,Client came in to update address on file.,0,0,0
+C0100321,2026-08-25 23:45:05.093465,B076,TELLER,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0100324,2026-08-17 10:53:49.529200,B113,TELLER,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0100330,2026-08-01 18:08:46.004745,B006,ACCOUNT_SERVICE,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0100336,2026-07-29 06:39:12.151187,B061,GENERAL,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0100341,2026-08-31 15:00:57.412341,B085,TELLER,Signed paperwork for savings account.,0,0,0
+C0100342,2026-06-22 06:29:12.852565,B070,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,0,1
+C0100346,2026-07-30 08:38:53.246500,B119,ACCOUNT_SERVICE,Client came in to update address on file.,0,0,0
+C0100359,2026-07-13 04:50:29.447952,B068,GENERAL,Client came in to update address on file.,0,0,0
+C0100361,2026-06-26 00:04:29.004299,B050,TELLER,Client came in to update address on file.,0,0,0
+C0100366,2026-06-24 16:53:37.605733,B103,ACCOUNT_SERVICE,Discussed CD options.,0,0,0
+C0100368,2026-08-28 08:58:27.356102,B015,TELLER,Discussed CD options.,0,0,0
+C0100373,2026-06-16 00:40:56.263967,B105,TELLER,Discussed CD options.,0,0,0
+C0100382,2026-09-10 16:06:37.266902,B015,GENERAL,Client came in to update address on file.,0,0,0
+C0100393,2026-08-06 07:58:57.920143,B060,TELLER,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0100394,2026-07-07 16:28:11.689251,B043,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,1,1
+C0100403,2026-08-04 08:59:38.990582,B016,ACCOUNT_SERVICE,Signed paperwork for savings account.,0,0,0
+C0100415,2026-07-11 19:11:54.849882,B109,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0100418,2026-08-08 13:58:59.645919,B009,ACCOUNT_SERVICE,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0100421,2026-07-11 00:07:08.672065,B039,GENERAL,Discussed CD options.,0,0,0
+C0100423,2026-09-03 13:51:12.312592,B043,ACCOUNT_SERVICE,Signed paperwork for savings account.,0,0,0
+C0100429,2026-06-18 07:39:51.265875,B056,GENERAL,Client came in to update address on file.,0,0,0
+C0100434,2026-07-23 07:07:57.613450,B002,ACCOUNT_SERVICE,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0100438,2026-07-09 08:15:03.577318,B065,GENERAL,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0100445,2026-09-05 10:52:42.229035,B035,GENERAL,Client came in to update address on file.,0,0,0
+C0100450,2026-08-30 13:47:33.234535,B087,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,0,1
+C0100453,2026-09-10 04:13:17.896618,B083,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,1,1
+C0100459,2026-07-08 19:18:28.259105,B081,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0100461,2026-09-06 14:20:15.380675,B102,ACCOUNT_SERVICE,Signed paperwork for savings account.,0,0,0
+C0100474,2026-07-11 18:00:24.175901,B051,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0100481,2026-08-02 06:51:16.034364,B062,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,0,1
+C0100486,2026-08-31 21:42:22.385739,B002,TELLER,Signed paperwork for savings account.,0,0,0
+C0100495,2026-07-30 07:07:26.678377,B051,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0100497,2026-07-11 17:17:12.003243,B074,ACCOUNT_SERVICE,Signed paperwork for savings account.,0,0,0
+C0100502,2026-08-27 02:02:09.090975,B094,GENERAL,Discussed CD options.,0,0,0
+C0100517,2026-07-16 03:42:47.034170,B038,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,0,1
+C0100521,2026-07-07 21:21:46.901968,B053,ACCOUNT_SERVICE,Client came in to update address on file.,0,0,0
+C0100531,2026-08-15 16:26:39.766340,B076,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,0,1
+C0100545,2026-06-16 12:35:31.703496,B003,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,0,1
+C0100556,2026-09-08 13:26:23.580762,B027,TELLER,Discussed CD options.,0,0,0
+C0100568,2026-06-26 17:07:04.947472,B065,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,0,1
+C0100570,2026-06-22 19:42:11.717982,B076,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0100576,2026-06-20 02:31:14.617711,B070,ACCOUNT_SERVICE,Discussed CD options.,0,0,0
+C0100581,2026-07-17 16:34:05.566127,B041,ACCOUNT_SERVICE,Signed paperwork for savings account.,0,0,0
+C0100582,2026-08-04 23:24:40.525828,B016,TELLER,Signed paperwork for savings account.,0,0,0
+C0100590,2026-07-05 16:12:07.935265,B045,GENERAL,Signed paperwork for savings account.,0,0,0
+C0100600,2026-08-30 23:47:48.026481,B104,GENERAL,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0100602,2026-08-15 08:45:40.636405,B012,GENERAL,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0100606,2026-09-05 10:45:01.654915,B079,GENERAL,Client came in to update address on file.,0,0,0
+C0100613,2026-06-22 03:21:11.861926,B005,TELLER,Discussed CD options.,0,0,0
+C0100621,2026-08-11 18:07:20.265578,B027,GENERAL,Discussed CD options.,0,0,0
+C0100622,2026-07-07 17:33:04.328066,B066,TELLER,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0100625,2026-07-10 12:04:22.519640,B002,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0100627,2026-08-05 04:23:48.472698,B054,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,1,1
+C0100628,2026-06-16 20:04:55.222782,B030,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0100643,2026-08-04 19:46:20.503149,B037,TELLER,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0100645,2026-07-30 11:48:08.900206,B092,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,1,1
+C0100646,2026-09-04 20:23:04.658244,B098,GENERAL,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0100647,2026-07-17 21:07:04.370200,B090,GENERAL,Signed paperwork for savings account.,0,0,0
+C0100651,2026-08-21 14:10:44.678444,B101,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,0,1
+C0100685,2026-07-26 03:51:01.918639,B044,TELLER,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0100694,2026-08-09 05:00:57.731717,B091,TELLER,Client came in to update address on file.,0,0,0
+C0100701,2026-09-10 23:42:06.557162,B002,GENERAL,Signed paperwork for savings account.,0,0,0
+C0100708,2026-09-08 08:40:10.908775,B107,ACCOUNT_SERVICE,Client came in to update address on file.,0,0,0
+C0100723,2026-06-23 14:06:43.678619,B114,TELLER,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0100726,2026-06-26 04:04:30.540037,B103,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0100731,2026-07-13 16:08:19.481833,B103,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,0,1
+C0100733,2026-08-30 12:29:11.323744,B115,GENERAL,Client came in to update address on file.,0,0,0
+C0100735,2026-06-18 18:56:02.017238,B073,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0100744,2026-08-22 08:43:21.147864,B046,GENERAL,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0100754,2026-06-28 10:19:10.788046,B019,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0100766,2026-07-01 14:39:19.752817,B012,GENERAL,Signed paperwork for savings account.,0,0,0
+C0100773,2026-08-08 15:31:15.960630,B050,ACCOUNT_SERVICE,Signed paperwork for savings account.,0,0,0
+C0100781,2026-08-02 23:19:39.997259,B066,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,1,1
+C0100782,2026-06-30 23:04:06.467952,B023,ACCOUNT_SERVICE,Signed paperwork for savings account.,0,0,0
+C0100785,2026-07-15 19:25:33.449901,B099,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,1,1
+C0100786,2026-08-21 19:53:14.339151,B047,GENERAL,Signed paperwork for savings account.,0,0,0
+C0100788,2026-08-01 13:42:32.731956,B116,GENERAL,Discussed CD options.,0,0,0
+C0100789,2026-07-21 01:29:40.573590,B075,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,0,1
+C0100796,2026-07-11 08:16:57.792628,B034,TELLER,Discussed CD options.,0,0,0
+C0100799,2026-06-17 00:38:45.194054,B039,GENERAL,Discussed CD options.,0,0,0
+C0100800,2026-06-25 17:20:27.604012,B067,GENERAL,Discussed CD options.,0,0,0
+C0100806,2026-08-22 12:46:32.819210,B071,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,1,1
+C0100809,2026-09-01 10:15:33.094290,B082,TELLER,Signed paperwork for savings account.,0,0,0
+C0100818,2026-06-14 16:24:58.666469,B025,ACCOUNT_SERVICE,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0100819,2026-07-22 17:47:29.016057,B081,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,1,1
+C0100821,2026-07-25 19:27:08.124526,B086,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,1,1
+C0100822,2026-09-02 14:48:38.154357,B098,TELLER,Signed paperwork for savings account.,0,0,0
+C0100833,2026-07-26 01:57:07.368586,B006,GENERAL,Client came in to update address on file.,0,0,0
+C0100835,2026-08-25 00:36:50.602687,B099,GENERAL,Discussed CD options.,0,0,0
+C0100843,2026-08-14 15:58:41.758930,B059,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,1,1
+C0100846,2026-09-06 17:08:41.360972,B062,TELLER,Client came in to update address on file.,0,0,0
+C0100853,2026-08-25 22:02:51.246485,B008,TELLER,Signed paperwork for savings account.,0,0,0
+C0100857,2026-06-18 02:51:16.342754,B108,TELLER,Signed paperwork for savings account.,0,0,0
+C0100859,2026-09-01 10:56:39.655862,B059,ACCOUNT_SERVICE,Discussed CD options.,0,0,0
+C0100862,2026-07-03 00:34:21.492916,B089,TELLER,Signed paperwork for savings account.,0,0,0
+C0100879,2026-07-31 08:41:36.261995,B110,ACCOUNT_SERVICE,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0100890,2026-08-04 12:19:52.047662,B108,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,0,1
+C0100893,2026-09-09 03:17:38.961735,B014,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0100900,2026-07-22 02:48:47.060203,B058,ACCOUNT_SERVICE,Client came in to update address on file.,0,0,0
+C0100902,2026-08-31 15:25:28.142628,B068,GENERAL,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0100921,2026-08-03 23:12:14.018446,B096,ACCOUNT_SERVICE,Discussed CD options.,0,0,0
+C0100926,2026-09-06 19:56:40.806410,B042,GENERAL,Discussed CD options.,0,0,0
+C0100927,2026-08-10 23:13:11.219970,B014,GENERAL,Signed paperwork for savings account.,0,0,0
+C0100946,2026-08-06 21:08:03.412574,B072,TELLER,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0100951,2026-08-10 04:56:57.796499,B036,ACCOUNT_SERVICE,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0100952,2026-08-12 05:32:57.112076,B097,TELLER,Signed paperwork for savings account.,0,0,0
+C0100961,2026-07-29 22:16:41.825521,B040,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,0,1
+C0100964,2026-08-03 19:57:02.307696,B077,TELLER,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0100972,2026-06-20 19:34:45.155083,B043,ACCOUNT_SERVICE,Client came in to update address on file.,0,0,0
+C0100982,2026-07-18 08:30:38.944471,B041,GENERAL,Discussed CD options.,0,0,0
+C0100992,2026-07-09 09:39:59.413551,B069,GENERAL,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0100993,2026-08-13 18:18:10.500376,B044,GENERAL,Discussed CD options.,0,0,0
+C0101006,2026-06-14 08:21:44.011947,B044,TELLER,Client came in to update address on file.,0,0,0
+C0101008,2026-07-21 01:37:19.407366,B003,ACCOUNT_SERVICE,Signed paperwork for savings account.,0,0,0
+C0101026,2026-07-27 08:31:42.247396,B072,ACCOUNT_SERVICE,Signed paperwork for savings account.,0,0,0
+C0101030,2026-06-16 11:57:02.498629,B041,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,1,1
+C0101033,2026-07-11 21:37:30.419747,B008,ACCOUNT_SERVICE,Discussed CD options.,0,0,0
+C0101038,2026-07-31 19:08:24.179856,B045,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,0,1
+C0101039,2026-08-12 01:59:29.056426,B115,GENERAL,Discussed CD options.,0,0,0
+C0101050,2026-06-24 16:49:04.778209,B082,TELLER,Discussed CD options.,0,0,0
+C0101051,2026-06-24 19:47:50.797973,B104,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,1,1
+C0101054,2026-08-15 01:42:10.494420,B080,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0101059,2026-07-03 16:40:13.231076,B032,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,0,1
+C0101072,2026-07-26 20:07:03.108059,B056,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,1,1
+C0101079,2026-07-11 12:29:26.290748,B004,ACCOUNT_SERVICE,Signed paperwork for savings account.,0,0,0
+C0101087,2026-08-05 10:26:08.883768,B106,TELLER,Discussed CD options.,0,0,0
+C0101097,2026-08-27 03:05:43.855137,B116,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0101098,2026-07-17 00:39:19.033057,B059,GENERAL,Signed paperwork for savings account.,0,0,0
+C0101100,2026-09-02 01:56:47.471322,B119,TELLER,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0101113,2026-09-03 02:10:24.658623,B031,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,0,1
+C0101124,2026-07-06 13:17:03.795572,B108,GENERAL,Signed paperwork for savings account.,0,0,0
+C0101128,2026-06-29 01:52:53.940846,B052,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,0,1
+C0101134,2026-07-12 18:24:01.165934,B070,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,0,1
+C0101137,2026-07-10 17:45:03.331735,B075,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,0,1
+C0101144,2026-08-02 01:14:07.569511,B011,TELLER,Signed paperwork for savings account.,0,0,0
+C0101148,2026-06-27 22:02:50.197931,B081,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,0,1
+C0101149,2026-07-08 03:56:20.442850,B008,GENERAL,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0101152,2026-09-07 18:27:38.801663,B047,ACCOUNT_SERVICE,Signed paperwork for savings account.,0,0,0
+C0101154,2026-09-01 20:49:37.339655,B075,TELLER,Signed paperwork for savings account.,0,0,0
+C0101155,2026-07-24 00:30:36.933931,B008,GENERAL,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0101163,2026-08-13 02:08:11.660843,B022,ACCOUNT_SERVICE,Client came in to update address on file.,0,0,0
+C0101169,2026-06-30 00:46:12.941039,B035,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0101178,2026-06-21 11:36:23.175667,B083,ACCOUNT_SERVICE,Signed paperwork for savings account.,0,0,0
+C0101194,2026-07-17 05:01:19.517663,B066,TELLER,Signed paperwork for savings account.,0,0,0
+C0101196,2026-07-08 15:31:58.774398,B060,ACCOUNT_SERVICE,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0101197,2026-07-23 19:04:03.416636,B016,ACCOUNT_SERVICE,Discussed CD options.,0,0,0
+C0101199,2026-06-23 18:17:32.051697,B042,GENERAL,Client came in to update address on file.,0,0,0
+C0101208,2026-09-08 17:09:21.850689,B044,GENERAL,Signed paperwork for savings account.,0,0,0
+C0101229,2026-08-24 20:22:47.659492,B094,TELLER,Signed paperwork for savings account.,0,0,0
+C0101230,2026-07-02 03:39:58.271648,B053,TELLER,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0101233,2026-07-21 14:01:53.569242,B026,ACCOUNT_SERVICE,Signed paperwork for savings account.,0,0,0
+C0101235,2026-07-28 16:45:55.668802,B112,ACCOUNT_SERVICE,Signed paperwork for savings account.,0,0,0
+C0101249,2026-08-08 07:23:24.520309,B045,TELLER,Signed paperwork for savings account.,0,0,0
+C0101252,2026-07-07 03:03:41.142410,B012,TELLER,Discussed CD options.,0,0,0
+C0101253,2026-06-21 03:29:23.071962,B003,ACCOUNT_SERVICE,Client came in to update address on file.,0,0,0
+C0101255,2026-08-02 17:42:29.754073,B057,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,0,1
+C0101256,2026-08-27 18:43:52.063348,B009,ACCOUNT_SERVICE,Signed paperwork for savings account.,0,0,0
+C0101259,2026-07-05 09:05:49.756557,B005,TELLER,Signed paperwork for savings account.,0,0,0
+C0101260,2026-06-30 12:50:55.774097,B103,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,0,1
+C0101269,2026-07-27 14:49:36.858472,B068,TELLER,Client came in to update address on file.,0,0,0
+C0101281,2026-08-17 22:46:01.522293,B021,TELLER,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0101284,2026-09-09 14:34:40.823584,B005,TELLER,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0101288,2026-06-19 11:04:52.019244,B119,GENERAL,Discussed CD options.,0,0,0
+C0101300,2026-07-28 20:46:33.131294,B107,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,1,1
+C0101302,2026-06-28 19:20:38.131166,B089,ACCOUNT_SERVICE,Signed paperwork for savings account.,0,0,0
+C0101310,2026-07-01 16:52:50.794969,B060,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0101314,2026-08-20 03:53:35.929696,B046,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,1,1
+C0101325,2026-07-27 16:13:39.087435,B113,GENERAL,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0101328,2026-07-02 05:50:33.082080,B071,GENERAL,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0101339,2026-07-17 05:23:12.259382,B041,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0101341,2026-08-22 16:07:10.684084,B095,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,0,1
+C0101347,2026-07-21 03:57:22.000693,B019,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0101349,2026-08-11 04:57:52.666538,B004,ACCOUNT_SERVICE,Discussed CD options.,0,0,0
+C0101353,2026-08-23 02:08:44.725197,B076,TELLER,Client came in to update address on file.,0,0,0
+C0101359,2026-07-10 19:38:43.939954,B036,GENERAL,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0101360,2026-08-23 02:20:28.943483,B107,GENERAL,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0101367,2026-06-27 01:39:50.450983,B062,GENERAL,Signed paperwork for savings account.,0,0,0
+C0101381,2026-08-16 19:28:23.906886,B088,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,1,1
+C0101385,2026-07-29 21:17:55.011521,B075,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0101391,2026-08-09 11:17:10.068940,B094,TELLER,Signed paperwork for savings account.,0,0,0
+C0101398,2026-07-02 01:41:14.641552,B063,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,0,1
+C0101403,2026-07-30 03:36:15.302263,B103,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0101405,2026-07-19 17:28:19.383366,B090,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,1,1
+C0101426,2026-08-29 00:18:05.295274,B052,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,1,1
+C0101428,2026-06-27 10:26:11.673953,B094,TELLER,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0101438,2026-09-04 01:41:04.195681,B064,ACCOUNT_SERVICE,Discussed CD options.,0,0,0
+C0101451,2026-07-01 23:49:14.727414,B116,GENERAL,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0101452,2026-08-17 11:05:05.531130,B041,TELLER,Discussed CD options.,0,0,0
+C0101465,2026-06-26 20:55:17.771848,B099,TELLER,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0101466,2026-06-25 11:49:32.386586,B052,GENERAL,Discussed CD options.,0,0,0
+C0101467,2026-07-23 00:54:18.622778,B077,GENERAL,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0101486,2026-08-28 18:08:46.124261,B027,GENERAL,Client came in to update address on file.,0,0,0
+C0101487,2026-07-30 14:40:56.485838,B017,GENERAL,Discussed CD options.,0,0,0
+C0101492,2026-07-24 23:32:47.815447,B102,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,1,1
+C0101496,2026-08-04 19:27:53.939883,B107,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0101511,2026-06-20 23:21:54.187569,B070,ACCOUNT_SERVICE,Client came in to update address on file.,0,0,0
+C0101513,2026-09-06 06:12:07.951392,B001,GENERAL,Client came in to update address on file.,0,0,0
+C0101516,2026-08-27 11:08:45.270182,B032,GENERAL,Client came in to update address on file.,0,0,0
+C0101522,2026-09-07 14:44:09.345216,B116,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,0,1
+C0101523,2026-07-20 22:33:29.272794,B076,TELLER,Client came in to update address on file.,0,0,0
+C0101535,2026-08-09 07:28:26.269813,B056,GENERAL,Signed paperwork for savings account.,0,0,0
+C0101551,2026-09-10 01:15:42.026445,B112,GENERAL,Client came in to update address on file.,0,0,0
+C0101552,2026-08-03 04:37:51.064559,B022,GENERAL,Client came in to update address on file.,0,0,0
+C0101560,2026-06-13 19:33:09.368924,B037,GENERAL,Client came in to update address on file.,0,0,0
+C0101567,2026-06-14 22:16:19.586995,B085,ACCOUNT_SERVICE,Discussed CD options.,0,0,0
+C0101568,2026-09-06 02:53:28.779488,B113,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,1,1
+C0101574,2026-07-30 01:12:06.887353,B058,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,1,1
+C0101580,2026-08-15 14:05:38.194887,B079,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,1,1
+C0101583,2026-07-26 19:51:59.643696,B058,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,1,1
+C0101588,2026-08-21 14:23:16.663824,B058,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,0,1
+C0101603,2026-09-03 14:03:39.970992,B086,TELLER,Client came in to update address on file.,0,0,0
+C0101610,2026-07-17 04:35:27.985571,B071,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0101623,2026-09-09 02:33:31.845348,B074,GENERAL,Client came in to update address on file.,0,0,0
+C0101627,2026-06-24 12:02:24.118793,B103,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0101628,2026-08-02 01:23:11.772336,B028,ACCOUNT_SERVICE,Discussed CD options.,0,0,0
+C0101638,2026-06-14 06:05:17.914426,B077,GENERAL,Discussed CD options.,0,0,0
+C0101641,2026-08-30 15:28:14.536929,B032,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,0,1
+C0101645,2026-08-06 14:49:02.177692,B057,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,0,1
+C0101657,2026-07-06 07:40:51.093364,B011,GENERAL,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0101659,2026-08-05 13:11:06.532866,B064,TELLER,Client came in to update address on file.,0,0,0
+C0101669,2026-08-19 18:46:14.557775,B090,ACCOUNT_SERVICE,Signed paperwork for savings account.,0,0,0
+C0101670,2026-08-13 04:56:37.372755,B043,ACCOUNT_SERVICE,Client came in to update address on file.,0,0,0
+C0101673,2026-07-16 01:48:26.213611,B016,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0101683,2026-08-05 04:44:18.146968,B049,GENERAL,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0101694,2026-08-07 02:56:36.415336,B104,ACCOUNT_SERVICE,Discussed CD options.,0,0,0
+C0101695,2026-08-26 19:48:34.602306,B053,ACCOUNT_SERVICE,Signed paperwork for savings account.,0,0,0
+C0101697,2026-06-29 11:18:33.149576,B003,ACCOUNT_SERVICE,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0101699,2026-07-09 08:52:59.053816,B071,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,0,1
+C0101700,2026-08-31 02:23:21.110272,B092,ACCOUNT_SERVICE,Discussed CD options.,0,0,0
+C0101704,2026-08-09 07:08:44.112191,B037,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0101709,2026-07-06 16:31:32.697501,B094,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,1,1
+C0101714,2026-07-07 11:50:56.597739,B001,GENERAL,Signed paperwork for savings account.,0,0,0
+C0101715,2026-06-24 20:14:06.296134,B067,TELLER,Discussed CD options.,0,0,0
+C0101717,2026-09-06 00:49:42.594327,B070,GENERAL,Client came in to update address on file.,0,0,0
+C0101721,2026-07-10 10:10:59.319382,B095,GENERAL,Signed paperwork for savings account.,0,0,0
+C0101723,2026-07-29 18:25:14.754760,B055,GENERAL,Discussed CD options.,0,0,0
+C0101724,2026-06-13 10:19:40.468844,B059,GENERAL,Client came in to update address on file.,0,0,0
+C0101728,2026-08-23 11:26:06.109629,B045,GENERAL,Client came in to update address on file.,0,0,0
+C0101729,2026-09-10 21:57:29.540614,B012,GENERAL,Discussed CD options.,0,0,0
+C0101740,2026-07-17 15:15:37.021063,B038,GENERAL,Client came in to update address on file.,0,0,0
+C0101748,2026-06-13 05:23:15.194451,B063,TELLER,Discussed CD options.,0,0,0
+C0101750,2026-07-15 15:27:00.588531,B068,GENERAL,Signed paperwork for savings account.,0,0,0
+C0101755,2026-08-26 00:35:51.153716,B074,TELLER,Discussed CD options.,0,0,0
+C0101756,2026-08-30 16:43:39.195587,B026,ACCOUNT_SERVICE,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0101781,2026-07-09 04:44:25.514702,B025,ACCOUNT_SERVICE,Client came in to update address on file.,0,0,0
+C0101786,2026-07-05 17:20:47.287432,B097,ACCOUNT_SERVICE,Client came in to update address on file.,0,0,0
+C0101803,2026-07-31 06:03:03.606334,B089,ACCOUNT_SERVICE,Client came in to update address on file.,0,0,0
+C0101809,2026-07-09 15:38:20.054031,B040,ACCOUNT_SERVICE,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0101810,2026-06-21 13:17:16.251476,B026,ACCOUNT_SERVICE,Client came in to update address on file.,0,0,0
+C0101811,2026-08-10 13:20:22.525800,B031,TELLER,Client came in to update address on file.,0,0,0
+C0101815,2026-06-19 23:15:03.085891,B029,ACCOUNT_SERVICE,Discussed CD options.,0,0,0
+C0101816,2026-08-23 23:11:03.946036,B031,GENERAL,Client came in to update address on file.,0,0,0
+C0101817,2026-07-08 07:01:06.740283,B058,ACCOUNT_SERVICE,Discussed CD options.,0,0,0
+C0101820,2026-09-01 05:55:40.360099,B055,TELLER,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0101831,2026-06-27 08:38:24.470499,B024,ACCOUNT_SERVICE,Discussed CD options.,0,0,0
+C0101834,2026-09-05 19:12:33.103163,B002,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,0,1
+C0101838,2026-09-02 13:24:55.551104,B069,ACCOUNT_SERVICE,Client came in to update address on file.,0,0,0
+C0101843,2026-08-31 21:46:18.149820,B074,TELLER,Client came in to update address on file.,0,0,0
+C0101844,2026-08-09 08:28:52.318592,B076,TELLER,Signed paperwork for savings account.,0,0,0
+C0101855,2026-08-03 03:36:14.956163,B068,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,1,1
+C0101856,2026-08-14 01:32:05.469759,B109,TELLER,Client came in to update address on file.,0,0,0
+C0101860,2026-06-18 22:12:45.454402,B103,TELLER,Client came in to update address on file.,0,0,0
+C0101865,2026-07-01 13:19:20.309127,B060,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,1,1
+C0101867,2026-06-15 16:57:12.469267,B067,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,0,1
+C0101878,2026-07-27 00:02:42.970424,B062,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,0,1
+C0101879,2026-08-11 06:02:49.516027,B028,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0101886,2026-08-02 07:23:30.575022,B092,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,1,1
+C0101889,2026-06-15 11:15:38.485680,B055,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,0,1
+C0101894,2026-06-27 16:12:32.487480,B101,TELLER,Discussed CD options.,0,0,0
+C0101896,2026-07-19 16:18:28.456114,B080,TELLER,Discussed CD options.,0,0,0
+C0101898,2026-07-13 21:08:11.319972,B069,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,1,1
+C0101901,2026-08-15 05:02:35.521343,B065,TELLER,Client came in to update address on file.,0,0,0
+C0101912,2026-06-23 02:04:57.956278,B059,ACCOUNT_SERVICE,Signed paperwork for savings account.,0,0,0
+C0101913,2026-08-16 17:40:42.802637,B118,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,0,1
+C0101918,2026-07-18 18:28:42.022700,B072,ACCOUNT_SERVICE,Signed paperwork for savings account.,0,0,0
+C0101926,2026-07-08 10:38:23.526973,B115,ACCOUNT_SERVICE,Client came in to update address on file.,0,0,0
+C0101929,2026-08-27 11:26:49.610003,B118,GENERAL,Discussed CD options.,0,0,0
+C0101931,2026-08-30 14:57:51.578167,B025,ACCOUNT_SERVICE,Discussed CD options.,0,0,0
+C0101944,2026-07-10 20:29:32.631470,B106,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0101975,2026-06-30 23:05:38.833908,B035,GENERAL,Signed paperwork for savings account.,0,0,0
+C0101976,2026-08-07 22:37:03.004189,B043,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,0,1
+C0101978,2026-08-09 07:50:09.524080,B047,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0101988,2026-08-28 14:26:57.483895,B098,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,0,1
+C0101989,2026-07-29 08:50:13.772871,B001,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0101994,2026-06-22 16:04:05.914208,B091,GENERAL,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0101996,2026-08-05 16:03:34.107850,B070,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,0,1
+C0101998,2026-06-28 06:13:25.889152,B057,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0102003,2026-07-28 17:43:06.225386,B089,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,1,1
+C0102027,2026-06-29 16:07:17.245773,B010,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,0,1
+C0102028,2026-06-24 17:38:57.949621,B028,TELLER,Discussed CD options.,0,0,0
+C0102030,2026-08-24 21:00:53.000549,B079,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,0,1
+C0102034,2026-06-15 19:45:20.951206,B105,TELLER,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0102039,2026-09-02 14:05:50.503302,B037,GENERAL,Signed paperwork for savings account.,0,0,0
+C0102041,2026-09-02 19:07:18.569570,B042,GENERAL,Client came in to update address on file.,0,0,0
+C0102056,2026-08-27 18:45:50.581915,B072,TELLER,Discussed CD options.,0,0,0
+C0102059,2026-06-15 11:29:27.986585,B069,TELLER,Signed paperwork for savings account.,0,0,0
+C0102073,2026-07-04 02:20:04.085961,B001,ACCOUNT_SERVICE,Discussed CD options.,0,0,0
+C0102081,2026-08-19 00:10:11.846696,B020,TELLER,Signed paperwork for savings account.,0,0,0
+C0102086,2026-09-04 12:40:12.403760,B045,GENERAL,Discussed CD options.,0,0,0
+C0102088,2026-08-27 05:34:29.071609,B119,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0102098,2026-09-04 11:30:32.703120,B060,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0102109,2026-08-28 10:36:56.145316,B065,TELLER,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0102115,2026-06-21 17:04:04.557587,B063,TELLER,Client came in to update address on file.,0,0,0
+C0102119,2026-08-25 07:57:40.969287,B006,GENERAL,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0102120,2026-08-06 02:09:46.606963,B033,TELLER,Discussed CD options.,0,0,0
+C0102126,2026-08-30 12:47:50.946272,B054,ACCOUNT_SERVICE,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0102133,2026-06-23 05:57:03.630878,B069,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,0,1
+C0102137,2026-07-09 14:29:06.374098,B063,GENERAL,Client came in to update address on file.,0,0,0
+C0102138,2026-07-15 16:08:14.368437,B003,GENERAL,Signed paperwork for savings account.,0,0,0
+C0102147,2026-08-12 01:44:48.780156,B063,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0102164,2026-08-08 18:19:37.942651,B088,TELLER,Client came in to update address on file.,0,0,0
+C0102165,2026-08-21 08:39:36.447109,B022,TELLER,Signed paperwork for savings account.,0,0,0
+C0102172,2026-07-21 11:32:41.700279,B026,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,1,1
+C0102176,2026-07-09 01:40:35.909303,B003,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,0,1
+C0102179,2026-07-01 13:40:55.768982,B104,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,1,1
+C0102183,2026-08-23 12:09:25.236965,B069,TELLER,Signed paperwork for savings account.,0,0,0
+C0102195,2026-06-25 06:25:55.940225,B039,ACCOUNT_SERVICE,Discussed CD options.,0,0,0
+C0102221,2026-08-12 07:08:50.381578,B107,ACCOUNT_SERVICE,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0102224,2026-07-08 12:57:05.301790,B029,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,1,1
+C0102226,2026-07-05 22:26:52.150548,B020,ACCOUNT_SERVICE,Signed paperwork for savings account.,0,0,0
+C0102230,2026-08-30 13:53:31.501685,B077,ACCOUNT_SERVICE,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0102236,2026-08-24 08:36:00.759753,B081,GENERAL,Discussed CD options.,0,0,0
+C0102239,2026-06-20 10:05:08.346096,B103,GENERAL,Signed paperwork for savings account.,0,0,0
+C0102242,2026-08-27 23:03:40.517981,B044,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,1,1
+C0102249,2026-06-15 10:51:39.755577,B012,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,0,1
+C0102253,2026-08-13 18:32:39.836036,B087,GENERAL,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0102254,2026-06-24 15:36:57.015456,B017,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0102255,2026-08-27 14:48:44.706861,B073,GENERAL,Signed paperwork for savings account.,0,0,0
+C0102256,2026-08-03 13:28:34.556627,B026,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,1,1
+C0102282,2026-07-07 11:09:19.841621,B067,ACCOUNT_SERVICE,Discussed CD options.,0,0,0
+C0102283,2026-08-05 22:32:32.646155,B083,TELLER,Signed paperwork for savings account.,0,0,0
+C0102284,2026-06-14 22:56:25.961454,B070,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0102285,2026-08-27 08:55:58.039220,B018,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,1,1
+C0102287,2026-07-21 03:16:30.059431,B039,ACCOUNT_SERVICE,Signed paperwork for savings account.,0,0,0
+C0102294,2026-07-16 18:43:21.509779,B003,TELLER,Client came in to update address on file.,0,0,0
+C0102297,2026-09-06 18:10:35.779709,B082,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0102298,2026-06-25 13:16:39.841422,B037,ACCOUNT_SERVICE,Client came in to update address on file.,0,0,0
+C0102299,2026-07-21 17:31:18.732660,B030,GENERAL,Client came in to update address on file.,0,0,0
+C0102304,2026-06-17 09:09:53.701703,B113,ACCOUNT_SERVICE,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0102319,2026-07-28 22:33:51.080719,B106,ACCOUNT_SERVICE,Discussed CD options.,0,0,0
+C0102321,2026-08-21 19:31:59.012765,B002,TELLER,Client came in to update address on file.,0,0,0
+C0102323,2026-06-25 17:56:05.416914,B102,ACCOUNT_SERVICE,Signed paperwork for savings account.,0,0,0
+C0102327,2026-09-01 01:20:28.035928,B038,GENERAL,Discussed CD options.,0,0,0
+C0102336,2026-07-05 02:35:46.070636,B058,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,0,1
+C0102341,2026-07-02 03:23:22.078982,B036,GENERAL,Discussed CD options.,0,0,0
+C0102342,2026-07-05 14:50:23.251508,B096,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,0,1
+C0102346,2026-06-20 02:55:15.158510,B063,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,0,1
+C0102350,2026-08-09 08:14:21.342699,B071,TELLER,Discussed CD options.,0,0,0
+C0102364,2026-06-20 21:16:41.440035,B082,TELLER,Client came in to update address on file.,0,0,0
+C0102368,2026-07-21 20:07:49.849629,B050,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,0,1
+C0102377,2026-08-28 18:08:33.822689,B032,GENERAL,Client came in to update address on file.,0,0,0
+C0102386,2026-07-19 12:56:04.089424,B049,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0102391,2026-07-29 09:20:28.428613,B109,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,1,1
+C0102396,2026-09-09 06:09:33.860844,B111,GENERAL,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0102398,2026-08-14 01:34:47.745067,B082,GENERAL,Discussed CD options.,0,0,0
+C0102399,2026-07-08 02:20:06.155968,B025,ACCOUNT_SERVICE,Signed paperwork for savings account.,0,0,0
+C0102403,2026-08-23 22:14:57.743035,B012,ACCOUNT_SERVICE,Client came in to update address on file.,0,0,0
+C0102421,2026-09-10 03:35:25.855212,B076,GENERAL,Discussed CD options.,0,0,0
+C0102422,2026-07-02 10:15:54.277179,B015,ACCOUNT_SERVICE,Client came in to update address on file.,0,0,0
+C0102426,2026-09-02 10:16:12.798257,B098,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,0,1
+C0102438,2026-07-02 15:52:36.705844,B027,TELLER,Client came in to update address on file.,0,0,0
+C0102442,2026-07-06 13:37:06.868603,B107,TELLER,Client came in to update address on file.,0,0,0
+C0102443,2026-07-09 17:34:43.498735,B094,TELLER,Client came in to update address on file.,0,0,0
+C0102444,2026-07-14 19:33:36.157802,B099,GENERAL,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0102467,2026-08-25 14:21:23.433029,B052,TELLER,Client came in to update address on file.,0,0,0
+C0102470,2026-06-21 10:28:47.929003,B013,GENERAL,Client came in to update address on file.,0,0,0
+C0102473,2026-08-03 05:13:52.630781,B116,GENERAL,Client came in to update address on file.,0,0,0
+C0102474,2026-08-06 04:16:16.061537,B030,GENERAL,Client came in to update address on file.,0,0,0
+C0102486,2026-06-25 13:09:11.988442,B061,TELLER,Discussed CD options.,0,0,0
+C0102498,2026-07-12 18:34:47.973096,B047,GENERAL,Signed paperwork for savings account.,0,0,0
+C0102505,2026-08-12 15:04:48.761634,B070,TELLER,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0102506,2026-08-06 13:07:44.683757,B004,ACCOUNT_SERVICE,Signed paperwork for savings account.,0,0,0
+C0102507,2026-08-19 09:51:46.154118,B074,TELLER,Signed paperwork for savings account.,0,0,0
+C0102512,2026-08-10 09:04:44.311866,B018,GENERAL,Client came in to update address on file.,0,0,0
+C0102517,2026-06-17 12:57:07.531173,B096,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,0,1
+C0102525,2026-08-22 02:42:57.438449,B071,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,0,1
+C0102534,2026-07-08 19:23:29.912505,B094,GENERAL,Discussed CD options.,0,0,0
+C0102537,2026-08-12 23:49:35.756483,B109,GENERAL,Discussed CD options.,0,0,0
+C0102549,2026-08-19 03:49:02.934194,B014,GENERAL,Signed paperwork for savings account.,0,0,0
+C0102555,2026-08-21 20:54:13.122898,B083,TELLER,Discussed CD options.,0,0,0
+C0102556,2026-07-16 20:48:24.879343,B038,ACCOUNT_SERVICE,Signed paperwork for savings account.,0,0,0
+C0102557,2026-07-16 00:37:33.629171,B107,ACCOUNT_SERVICE,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0102562,2026-07-07 18:13:13.097308,B089,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,1,1
+C0102565,2026-08-14 19:39:27.709713,B042,ACCOUNT_SERVICE,Client came in to update address on file.,0,0,0
+C0102569,2026-08-14 12:57:27.835488,B090,TELLER,Discussed CD options.,0,0,0
+C0102591,2026-08-31 09:05:54.692673,B066,GENERAL,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0102604,2026-07-08 19:15:55.175335,B090,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,0,1
+C0102628,2026-06-27 18:59:27.801126,B017,GENERAL,Signed paperwork for savings account.,0,0,0
+C0102633,2026-07-23 06:44:35.001601,B065,ACCOUNT_SERVICE,Signed paperwork for savings account.,0,0,0
+C0102648,2026-09-06 19:48:51.180082,B077,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,1,1
+C0102657,2026-07-21 00:12:51.671280,B093,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0102660,2026-07-15 13:35:30.180472,B091,TELLER,Client came in to update address on file.,0,0,0
+C0102669,2026-08-15 02:03:36.999423,B005,GENERAL,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0102674,2026-08-26 16:44:19.684910,B035,ACCOUNT_SERVICE,Signed paperwork for savings account.,0,0,0
+C0102690,2026-07-07 13:18:30.632784,B105,GENERAL,Signed paperwork for savings account.,0,0,0
+C0102691,2026-07-01 18:57:05.806083,B093,TELLER,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0102694,2026-08-02 19:07:49.757597,B093,GENERAL,Client came in to update address on file.,0,0,0
+C0102699,2026-09-03 10:13:24.202087,B070,TELLER,Discussed CD options.,0,0,0
+C0102708,2026-07-07 20:30:14.143686,B071,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,0,1
+C0102711,2026-08-27 10:20:14.012665,B073,TELLER,Client came in to update address on file.,0,0,0
+C0102733,2026-07-02 22:01:27.495249,B068,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,1,1
+C0102738,2026-06-20 21:16:00.356981,B111,TELLER,Discussed CD options.,0,0,0
+C0102746,2026-08-07 21:04:54.552118,B111,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,1,1
+C0102752,2026-08-13 17:54:09.173994,B058,ACCOUNT_SERVICE,Discussed CD options.,0,0,0
+C0102754,2026-08-05 22:28:58.544208,B050,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0102758,2026-06-27 22:20:36.167010,B110,ACCOUNT_SERVICE,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0102762,2026-08-04 12:55:52.046115,B079,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,1,1
+C0102769,2026-07-30 23:55:32.236161,B097,TELLER,Discussed CD options.,0,0,0
+C0102784,2026-09-10 02:19:24.100855,B084,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,0,1
+C0102785,2026-09-01 01:52:06.908515,B041,GENERAL,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0102790,2026-08-12 04:59:41.039323,B021,TELLER,Signed paperwork for savings account.,0,0,0
+C0102796,2026-07-25 04:37:06.203623,B082,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,0,1
+C0102798,2026-08-28 22:40:36.345300,B014,TELLER,Client came in to update address on file.,0,0,0
+C0102803,2026-08-03 19:37:18.227442,B012,ACCOUNT_SERVICE,Client came in to update address on file.,0,0,0
+C0102808,2026-08-12 18:24:37.371245,B049,ACCOUNT_SERVICE,Discussed CD options.,0,0,0
+C0102814,2026-09-05 18:06:18.729863,B036,TELLER,Client came in to update address on file.,0,0,0
+C0102815,2026-08-16 22:16:32.781393,B078,TELLER,Discussed CD options.,0,0,0
+C0102833,2026-07-31 02:21:14.038867,B061,TELLER,Discussed CD options.,0,0,0
+C0102835,2026-08-04 17:50:37.191533,B114,ACCOUNT_SERVICE,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0102852,2026-09-09 18:23:39.045137,B038,GENERAL,Client came in to update address on file.,0,0,0
+C0102858,2026-07-22 13:46:43.495619,B002,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0102861,2026-08-27 22:03:05.232829,B096,GENERAL,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0102868,2026-08-07 17:08:24.214915,B041,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0102870,2026-07-21 22:34:17.653974,B039,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,1,1
+C0102881,2026-08-21 23:18:11.578324,B041,ACCOUNT_SERVICE,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0102883,2026-07-05 13:43:58.014114,B108,GENERAL,Discussed CD options.,0,0,0
+C0102897,2026-09-02 04:00:12.731620,B024,TELLER,Client came in to update address on file.,0,0,0
+C0102899,2026-07-23 14:08:21.661962,B020,ACCOUNT_SERVICE,Signed paperwork for savings account.,0,0,0
+C0102909,2026-07-01 04:21:33.698734,B116,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,1,1
+C0102919,2026-09-03 05:46:37.223788,B082,TELLER,Signed paperwork for savings account.,0,0,0
+C0102925,2026-07-20 08:02:09.698043,B001,GENERAL,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0102928,2026-07-21 02:00:58.562545,B022,ACCOUNT_SERVICE,Signed paperwork for savings account.,0,0,0
+C0102932,2026-08-05 14:04:12.636055,B017,TELLER,Discussed CD options.,0,0,0
+C0102936,2026-07-09 10:09:12.811361,B045,TELLER,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0102938,2026-07-05 01:58:02.566412,B068,TELLER,Discussed CD options.,0,0,0
+C0102939,2026-08-14 18:19:14.490860,B007,ACCOUNT_SERVICE,Signed paperwork for savings account.,0,0,0
+C0102943,2026-06-21 12:41:11.201246,B062,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,0,1
+C0102947,2026-06-26 05:02:47.894767,B112,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,1,1
+C0102960,2026-07-27 16:09:50.662580,B044,ACCOUNT_SERVICE,Client came in to update address on file.,0,0,0
+C0102961,2026-06-30 16:07:10.985428,B112,TELLER,Discussed CD options.,0,0,0
+C0102971,2026-08-19 21:57:01.560170,B062,GENERAL,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0102979,2026-06-30 09:50:56.910398,B027,ACCOUNT_SERVICE,Signed paperwork for savings account.,0,0,0
+C0102998,2026-09-06 03:11:37.791087,B072,GENERAL,Discussed CD options.,0,0,0
+C0103004,2026-08-18 18:07:34.657433,B011,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,0,1
+C0103017,2026-07-23 23:18:09.807746,B102,ACCOUNT_SERVICE,Discussed CD options.,0,0,0
+C0103018,2026-08-12 07:36:55.282354,B009,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,1,1
+C0103025,2026-06-18 16:42:34.406971,B013,GENERAL,Discussed CD options.,0,0,0
+C0103027,2026-08-13 07:50:13.607343,B108,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,1,1
+C0103028,2026-08-26 13:00:38.825379,B056,GENERAL,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0103033,2026-07-19 02:14:25.895828,B069,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,0,1
+C0103057,2026-06-21 17:03:46.534379,B050,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,0,1
+C0103059,2026-06-30 17:17:17.353782,B076,GENERAL,Client came in to update address on file.,0,0,0
+C0103060,2026-07-30 23:55:29.421690,B087,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0103074,2026-08-18 05:19:29.364752,B058,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,0,1
+C0103077,2026-07-13 23:48:24.977920,B105,ACCOUNT_SERVICE,Discussed CD options.,0,0,0
+C0103093,2026-09-10 05:40:01.372159,B063,TELLER,Discussed CD options.,0,0,0
+C0103094,2026-08-18 12:44:25.697257,B038,TELLER,Signed paperwork for savings account.,0,0,0
+C0103101,2026-06-19 06:19:02.143604,B032,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0103102,2026-06-30 22:57:27.602933,B075,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,0,1
+C0103110,2026-06-13 16:39:42.936875,B031,TELLER,Discussed CD options.,0,0,0
+C0103122,2026-07-06 19:47:55.326040,B005,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,0,1
+C0103123,2026-07-02 13:58:10.217241,B062,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0103135,2026-08-23 01:36:15.950939,B062,ACCOUNT_SERVICE,Client came in to update address on file.,0,0,0
+C0103140,2026-07-31 01:18:48.970135,B080,ACCOUNT_SERVICE,Client came in to update address on file.,0,0,0
+C0103150,2026-07-12 18:22:11.670841,B053,TELLER,Client came in to update address on file.,0,0,0
+C0103152,2026-06-14 21:44:23.290005,B099,TELLER,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0103156,2026-07-18 08:13:45.409209,B030,GENERAL,Discussed CD options.,0,0,0
+C0103157,2026-08-08 19:09:19.146170,B113,TELLER,Signed paperwork for savings account.,0,0,0
+C0103158,2026-08-24 15:48:43.045500,B023,TELLER,Signed paperwork for savings account.,0,0,0
+C0103162,2026-08-02 18:45:51.360594,B084,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,1,1
+C0103177,2026-08-06 14:10:00.166540,B088,ACCOUNT_SERVICE,Signed paperwork for savings account.,0,0,0
+C0103186,2026-08-18 01:19:29.836543,B064,TELLER,Discussed CD options.,0,0,0
+C0103192,2026-08-10 03:02:23.033402,B023,TELLER,Signed paperwork for savings account.,0,0,0
+C0103195,2026-07-22 13:31:26.532166,B024,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,0,1
+C0103223,2026-08-12 23:30:46.984345,B062,TELLER,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0103232,2026-07-06 12:03:06.143103,B063,TELLER,Signed paperwork for savings account.,0,0,0
+C0103241,2026-09-05 20:25:50.207306,B035,GENERAL,Client came in to update address on file.,0,0,0
+C0103244,2026-07-16 09:58:21.874764,B043,GENERAL,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0103255,2026-08-02 09:40:18.931875,B073,TELLER,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0103265,2026-09-01 16:02:32.560501,B066,TELLER,Signed paperwork for savings account.,0,0,0
+C0103285,2026-08-23 09:53:27.069435,B095,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,0,1
+C0103287,2026-06-26 11:16:45.351706,B003,GENERAL,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0103292,2026-08-24 15:07:03.525275,B011,GENERAL,Signed paperwork for savings account.,0,0,0
+C0103297,2026-08-11 08:56:44.752613,B015,GENERAL,Client came in to update address on file.,0,0,0
+C0103301,2026-09-01 14:11:09.266556,B018,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,1,1
+C0103307,2026-07-25 21:21:44.283680,B092,TELLER,Discussed CD options.,0,0,0
+C0103311,2026-06-13 11:04:17.654326,B090,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,1,1
+C0103312,2026-08-13 18:38:17.959936,B115,ACCOUNT_SERVICE,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0103327,2026-08-12 05:25:36.505088,B039,TELLER,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0103332,2026-09-09 12:40:15.817013,B051,GENERAL,Signed paperwork for savings account.,0,0,0
+C0103334,2026-09-09 19:40:27.646025,B094,ACCOUNT_SERVICE,Client came in to update address on file.,0,0,0
+C0103337,2026-08-19 22:02:29.692817,B069,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,0,1
+C0103346,2026-08-26 16:55:34.411551,B013,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,1,1
+C0103353,2026-09-02 12:13:22.767592,B041,TELLER,Discussed CD options.,0,0,0
+C0103356,2026-08-09 04:53:00.051511,B087,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,0,1
+C0103359,2026-07-03 20:09:21.793793,B013,ACCOUNT_SERVICE,Discussed CD options.,0,0,0
+C0103362,2026-08-18 19:39:21.049529,B053,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,0,1
+C0103366,2026-09-07 17:13:49.262634,B009,ACCOUNT_SERVICE,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0103368,2026-06-27 05:09:42.068624,B104,GENERAL,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0103372,2026-07-20 13:43:07.436953,B066,GENERAL,Signed paperwork for savings account.,0,0,0
+C0103375,2026-08-31 10:58:05.844142,B037,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0103379,2026-08-19 16:44:56.516157,B102,ACCOUNT_SERVICE,Signed paperwork for savings account.,0,0,0
+C0103388,2026-06-15 07:17:32.655182,B119,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0103391,2026-08-22 05:41:21.929168,B009,GENERAL,Client came in to update address on file.,0,0,0
+C0103397,2026-08-04 10:46:24.375344,B028,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,1,1
+C0103400,2026-07-05 05:06:06.229856,B049,ACCOUNT_SERVICE,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0103407,2026-06-22 04:48:09.597789,B037,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0103409,2026-08-30 21:16:50.573955,B108,GENERAL,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0103418,2026-07-20 00:37:20.270009,B097,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,1,1
+C0103421,2026-07-08 14:45:42.885340,B012,GENERAL,Signed paperwork for savings account.,0,0,0
+C0103423,2026-07-12 21:26:16.343184,B077,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0103425,2026-06-14 21:09:34.725544,B036,ACCOUNT_SERVICE,Client came in to update address on file.,0,0,0
+C0103440,2026-09-04 20:46:28.014069,B022,GENERAL,Discussed CD options.,0,0,0
+C0103447,2026-06-30 16:21:47.000085,B064,GENERAL,Client came in to update address on file.,0,0,0
+C0103451,2026-06-22 16:00:48.912249,B058,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,0,1
+C0103456,2026-08-21 01:13:08.680614,B072,TELLER,Client came in to update address on file.,0,0,0
+C0103461,2026-08-19 10:42:59.313034,B028,GENERAL,Discussed CD options.,0,0,0
+C0103472,2026-08-22 10:54:40.764704,B006,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0103487,2026-07-24 22:09:05.881048,B006,ACCOUNT_SERVICE,Discussed CD options.,0,0,0
+C0103490,2026-08-09 14:00:23.786390,B107,ACCOUNT_SERVICE,Client came in to update address on file.,0,0,0
+C0103491,2026-08-16 02:41:07.575284,B056,ACCOUNT_SERVICE,Client came in to update address on file.,0,0,0
+C0103499,2026-07-20 02:16:31.876540,B078,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0103500,2026-09-06 14:05:01.898570,B091,GENERAL,Signed paperwork for savings account.,0,0,0
+C0103502,2026-07-08 10:00:26.311884,B056,GENERAL,Discussed CD options.,0,0,0
+C0103505,2026-07-14 20:42:46.820917,B111,ACCOUNT_SERVICE,Discussed CD options.,0,0,0
+C0103507,2026-09-04 15:59:02.060308,B083,TELLER,Client came in to update address on file.,0,0,0
+C0103509,2026-07-15 02:21:47.471653,B050,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0103523,2026-07-21 23:01:53.409955,B004,TELLER,Discussed CD options.,0,0,0
+C0103526,2026-08-15 02:07:39.303728,B089,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0103528,2026-06-18 01:00:56.278638,B099,ACCOUNT_SERVICE,Signed paperwork for savings account.,0,0,0
+C0103537,2026-08-12 09:11:42.084476,B086,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0103538,2026-09-10 01:01:42.661308,B024,GENERAL,Client came in to update address on file.,0,0,0
+C0103540,2026-06-26 20:59:28.393798,B115,ACCOUNT_SERVICE,Client came in to update address on file.,0,0,0
+C0103542,2026-06-14 06:12:46.876338,B074,ACCOUNT_SERVICE,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0103561,2026-08-14 06:37:55.161246,B037,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,1,1
+C0103566,2026-07-07 12:21:16.783695,B089,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,0,1
+C0103570,2026-07-02 15:33:19.598681,B063,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0103572,2026-08-01 18:39:56.245552,B087,GENERAL,Signed paperwork for savings account.,0,0,0
+C0103595,2026-07-06 03:05:31.089462,B092,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0103604,2026-07-22 05:33:16.918250,B070,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0103606,2026-07-20 03:42:23.987266,B065,ACCOUNT_SERVICE,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0103607,2026-08-31 03:10:04.773094,B016,TELLER,Client came in to update address on file.,0,0,0
+C0103611,2026-07-17 02:48:19.241988,B015,ACCOUNT_SERVICE,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0103619,2026-08-06 14:22:08.172207,B114,ACCOUNT_SERVICE,Discussed CD options.,0,0,0
+C0103622,2026-06-17 20:58:46.790673,B116,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,1,1
+C0103624,2026-06-21 17:26:21.056005,B075,GENERAL,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0103632,2026-06-21 01:09:22.633416,B103,ACCOUNT_SERVICE,Client came in to update address on file.,0,0,0
+C0103636,2026-06-21 12:28:23.202935,B077,TELLER,Signed paperwork for savings account.,0,0,0
+C0103641,2026-07-28 17:37:32.105789,B096,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,1,1
+C0103646,2026-07-27 06:13:08.517868,B021,GENERAL,Discussed CD options.,0,0,0
+C0103658,2026-07-11 20:39:41.651993,B005,TELLER,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0103660,2026-08-15 04:15:00.167921,B042,ACCOUNT_SERVICE,Signed paperwork for savings account.,0,0,0
+C0103661,2026-08-10 18:08:02.562746,B042,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,0,1
+C0103666,2026-07-26 14:40:40.225362,B068,ACCOUNT_SERVICE,Discussed CD options.,0,0,0
+C0103670,2026-07-21 00:54:25.193753,B078,TELLER,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0103677,2026-09-03 19:36:19.818838,B011,ACCOUNT_SERVICE,Client came in to update address on file.,0,0,0
+C0103680,2026-07-11 06:14:44.228424,B073,TELLER,Client came in to update address on file.,0,0,0
+C0103687,2026-07-28 04:29:01.349974,B025,ACCOUNT_SERVICE,Discussed CD options.,0,0,0
+C0103692,2026-08-31 15:43:27.883058,B108,TELLER,Discussed CD options.,0,0,0
+C0103700,2026-06-29 21:35:00.365708,B044,TELLER,Discussed CD options.,0,0,0
+C0103701,2026-07-10 11:26:44.856379,B105,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,0,1
+C0103703,2026-08-15 03:51:18.853496,B076,TELLER,Discussed CD options.,0,0,0
+C0103707,2026-07-30 00:06:57.112288,B023,ACCOUNT_SERVICE,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0103709,2026-07-03 12:07:21.592408,B002,GENERAL,Client came in to update address on file.,0,0,0
+C0103712,2026-07-27 14:11:35.663395,B112,GENERAL,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0103720,2026-06-26 05:10:40.711202,B058,TELLER,Discussed CD options.,0,0,0
+C0103722,2026-06-21 00:06:46.745481,B082,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0103727,2026-09-06 11:58:56.816559,B029,GENERAL,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0103732,2026-07-04 12:54:50.105425,B056,GENERAL,Client came in to update address on file.,0,0,0
+C0103733,2026-07-27 08:46:14.490579,B077,ACCOUNT_SERVICE,Discussed CD options.,0,0,0
+C0103749,2026-08-01 12:44:28.907166,B118,ACCOUNT_SERVICE,Signed paperwork for savings account.,0,0,0
+C0103753,2026-09-07 04:38:14.310875,B111,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,0,1
+C0103757,2026-07-17 16:04:50.638537,B019,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0103761,2026-07-16 11:17:03.317312,B078,TELLER,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0103768,2026-08-01 05:52:21.160447,B071,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,0,1
+C0103784,2026-07-26 23:38:22.556838,B105,TELLER,Discussed CD options.,0,0,0
+C0103787,2026-06-14 11:26:52.323851,B100,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,0,1
+C0103792,2026-08-28 09:53:34.286943,B107,TELLER,Signed paperwork for savings account.,0,0,0
+C0103811,2026-07-30 21:48:24.421335,B099,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,0,1
+C0103813,2026-07-08 00:21:39.066932,B095,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,1,1
+C0103815,2026-07-26 20:15:22.525518,B008,TELLER,Client came in to update address on file.,0,0,0
+C0103819,2026-09-05 11:06:25.214687,B069,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,0,1
+C0103821,2026-06-29 12:07:02.874553,B023,GENERAL,Client came in to update address on file.,0,0,0
+C0103825,2026-07-22 05:35:19.295537,B030,ACCOUNT_SERVICE,Client came in to update address on file.,0,0,0
+C0103831,2026-07-07 02:53:56.415492,B089,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,0,1
+C0103838,2026-08-24 10:09:12.048528,B012,GENERAL,Signed paperwork for savings account.,0,0,0
+C0103840,2026-07-15 07:23:32.504081,B111,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0103843,2026-06-15 18:16:29.538671,B094,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,1,1
+C0103848,2026-07-23 23:31:24.066983,B015,TELLER,Discussed CD options.,0,0,0
+C0103849,2026-09-04 11:36:41.162623,B105,ACCOUNT_SERVICE,Discussed CD options.,0,0,0
+C0103852,2026-08-19 17:35:00.030956,B026,TELLER,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0103884,2026-08-13 22:02:22.586312,B055,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,0,1
+C0103898,2026-08-29 23:04:54.366157,B024,TELLER,Client came in to update address on file.,0,0,0
+C0103900,2026-07-16 13:35:43.623152,B010,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,1,1
+C0103903,2026-08-15 11:49:00.093110,B039,TELLER,Signed paperwork for savings account.,0,0,0
+C0103919,2026-06-15 22:38:20.453389,B013,GENERAL,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0103922,2026-09-03 14:48:01.347502,B010,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,1,1
+C0103935,2026-08-18 23:22:14.929287,B036,ACCOUNT_SERVICE,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0103946,2026-08-14 07:41:43.067311,B060,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,0,1
+C0103950,2026-06-20 07:39:08.761778,B055,GENERAL,Signed paperwork for savings account.,0,0,0
+C0103953,2026-07-24 23:30:19.183932,B095,ACCOUNT_SERVICE,Client came in to update address on file.,0,0,0
+C0103954,2026-08-24 09:40:38.232412,B076,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,1,1
+C0103975,2026-08-31 17:49:11.624749,B074,ACCOUNT_SERVICE,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0103976,2026-08-27 23:30:08.723300,B104,ACCOUNT_SERVICE,Signed paperwork for savings account.,0,0,0
+C0103979,2026-07-10 05:13:56.720419,B092,ACCOUNT_SERVICE,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0103986,2026-07-29 14:09:57.879348,B112,TELLER,Client came in to update address on file.,0,0,0
+C0103991,2026-07-12 16:22:33.344693,B001,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0104016,2026-07-29 15:41:04.132609,B116,GENERAL,Client came in to update address on file.,0,0,0
+C0104024,2026-09-01 07:51:28.502779,B073,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,0,1
+C0104025,2026-06-29 07:43:03.457386,B072,ACCOUNT_SERVICE,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0104026,2026-07-26 11:09:47.532150,B048,GENERAL,Discussed CD options.,0,0,0
+C0104030,2026-07-28 10:03:24.290613,B098,GENERAL,Signed paperwork for savings account.,0,0,0
+C0104034,2026-08-16 09:46:25.972039,B054,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,0,1
+C0104041,2026-06-17 13:48:50.896071,B117,TELLER,Discussed CD options.,0,0,0
+C0104046,2026-06-24 03:18:54.502130,B076,ACCOUNT_SERVICE,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0104048,2026-08-05 04:43:00.800931,B119,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0104057,2026-08-23 15:16:18.950487,B091,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0104064,2026-07-24 03:33:08.353535,B015,GENERAL,Discussed CD options.,0,0,0
+C0104066,2026-09-09 07:56:56.073854,B017,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,1,1
+C0104075,2026-06-16 14:45:01.371184,B107,TELLER,Discussed CD options.,0,0,0
+C0104088,2026-07-30 17:29:55.429487,B118,ACCOUNT_SERVICE,Client came in to update address on file.,0,0,0
+C0104090,2026-07-28 04:59:21.616059,B018,GENERAL,Client came in to update address on file.,0,0,0
+C0104099,2026-08-02 00:54:09.532660,B088,TELLER,Signed paperwork for savings account.,0,0,0
+C0104102,2026-07-14 07:27:21.056399,B042,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,0,1
+C0104108,2026-07-16 20:32:33.270368,B053,ACCOUNT_SERVICE,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0104138,2026-09-10 09:32:08.606236,B115,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,1,1
+C0104139,2026-08-01 20:55:21.592984,B016,GENERAL,Client came in to update address on file.,0,0,0
+C0104141,2026-08-16 05:11:27.592100,B048,ACCOUNT_SERVICE,Signed paperwork for savings account.,0,0,0
+C0104142,2026-07-19 10:54:33.247299,B035,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0104147,2026-08-29 04:55:26.012290,B054,TELLER,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0104152,2026-09-07 22:23:14.948278,B107,GENERAL,Signed paperwork for savings account.,0,0,0
+C0104153,2026-08-08 11:28:21.336639,B025,GENERAL,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0104165,2026-07-17 23:16:22.984151,B085,GENERAL,Discussed CD options.,0,0,0
+C0104173,2026-07-21 22:27:08.832166,B022,GENERAL,Discussed CD options.,0,0,0
+C0104176,2026-08-03 09:41:54.345439,B106,TELLER,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0104179,2026-08-23 03:30:37.205009,B039,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,1,1
+C0104188,2026-06-13 08:14:05.895511,B045,ACCOUNT_SERVICE,Client came in to update address on file.,0,0,0
+C0104199,2026-09-05 16:54:25.815025,B065,TELLER,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0104200,2026-07-08 01:29:52.425047,B057,GENERAL,Signed paperwork for savings account.,0,0,0
+C0104201,2026-06-27 23:44:24.043356,B008,TELLER,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0104210,2026-06-20 13:18:09.412665,B003,ACCOUNT_SERVICE,Discussed CD options.,0,0,0
+C0104223,2026-06-26 20:24:22.129844,B077,TELLER,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0104224,2026-08-04 14:16:41.960768,B088,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,1,1
+C0104228,2026-06-30 17:29:22.344695,B081,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,0,1
+C0104235,2026-09-07 15:52:14.007448,B065,ACCOUNT_SERVICE,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0104252,2026-08-10 22:15:33.901059,B079,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,1,1
+C0104258,2026-07-03 00:25:27.451755,B067,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,0,1
+C0104263,2026-08-10 02:47:12.682986,B021,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,0,1
+C0104267,2026-08-04 14:32:53.474577,B056,ACCOUNT_SERVICE,Discussed CD options.,0,0,0
+C0104276,2026-08-06 22:40:21.018688,B081,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,0,1
+C0104280,2026-06-21 21:46:44.866143,B053,TELLER,Signed paperwork for savings account.,0,0,0
+C0104292,2026-07-17 20:56:53.108595,B017,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,1,1
+C0104293,2026-07-19 13:12:53.323284,B101,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,0,1
+C0104302,2026-07-12 22:50:09.129203,B056,TELLER,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0104316,2026-08-23 03:53:24.342593,B109,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0104331,2026-07-30 13:21:30.798883,B112,ACCOUNT_SERVICE,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0104339,2026-08-07 13:18:42.893998,B057,GENERAL,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0104340,2026-08-19 19:35:36.327598,B116,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0104345,2026-07-06 18:21:52.207113,B008,GENERAL,Signed paperwork for savings account.,0,0,0
+C0104358,2026-09-05 10:08:53.484811,B046,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,1,1
+C0104359,2026-08-07 14:17:51.768645,B023,ACCOUNT_SERVICE,Client came in to update address on file.,0,0,0
+C0104360,2026-08-14 09:52:22.768059,B078,ACCOUNT_SERVICE,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0104374,2026-09-06 02:56:57.285483,B103,GENERAL,Client came in to update address on file.,0,0,0
+C0104380,2026-07-11 01:46:05.376386,B035,ACCOUNT_SERVICE,Client came in to update address on file.,0,0,0
+C0104390,2026-08-07 17:16:30.703579,B078,TELLER,Client came in to update address on file.,0,0,0
+C0104402,2026-07-22 20:13:22.505474,B013,ACCOUNT_SERVICE,Discussed CD options.,0,0,0
+C0104410,2026-08-28 03:43:32.964330,B085,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0104417,2026-07-27 21:21:26.778561,B026,GENERAL,Client came in to update address on file.,0,0,0
+C0104419,2026-08-03 12:37:24.859678,B101,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,0,1
+C0104420,2026-08-07 20:10:15.449433,B066,TELLER,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0104429,2026-09-08 13:31:29.252120,B053,TELLER,Discussed CD options.,0,0,0
+C0104438,2026-09-01 08:30:58.700508,B056,GENERAL,Discussed CD options.,0,0,0
+C0104442,2026-07-18 05:34:27.071726,B062,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0104444,2026-06-28 21:31:40.529892,B116,GENERAL,Discussed CD options.,0,0,0
+C0104448,2026-06-29 17:45:44.535423,B093,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,0,1
+C0104451,2026-08-28 18:58:22.582969,B048,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,1,1
+C0104452,2026-08-27 10:48:28.702252,B001,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,0,1
+C0104460,2026-08-04 04:16:05.384657,B101,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,1,1
+C0104465,2026-06-23 08:09:15.253746,B062,ACCOUNT_SERVICE,Client came in to update address on file.,0,0,0
+C0104469,2026-08-01 09:54:19.115456,B080,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0104470,2026-07-05 16:12:11.531028,B114,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,0,1
+C0104484,2026-07-11 17:30:49.914004,B048,ACCOUNT_SERVICE,Discussed CD options.,0,0,0
+C0104488,2026-06-26 19:13:33.964983,B005,TELLER,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0104489,2026-07-14 06:30:36.718813,B033,GENERAL,Discussed CD options.,0,0,0
+C0104491,2026-07-13 20:03:58.224327,B100,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,0,1
+C0104503,2026-09-02 01:02:49.085059,B059,GENERAL,Discussed CD options.,0,0,0
+C0104516,2026-06-25 05:24:05.041683,B069,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,1,1
+C0104517,2026-06-22 06:30:39.414509,B019,GENERAL,Discussed CD options.,0,0,0
+C0104518,2026-07-31 17:51:36.560877,B006,TELLER,Signed paperwork for savings account.,0,0,0
+C0104523,2026-06-20 16:32:00.066684,B107,GENERAL,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0104524,2026-07-10 18:45:29.878144,B085,TELLER,Signed paperwork for savings account.,0,0,0
+C0104528,2026-07-12 18:59:16.165804,B014,GENERAL,Discussed CD options.,0,0,0
+C0104538,2026-07-20 20:37:41.430583,B064,ACCOUNT_SERVICE,Signed paperwork for savings account.,0,0,0
+C0104548,2026-08-05 10:14:32.269751,B002,GENERAL,Discussed CD options.,0,0,0
+C0104550,2026-06-15 04:20:07.818744,B011,ACCOUNT_SERVICE,Client came in to update address on file.,0,0,0
+C0104568,2026-08-30 13:30:28.964299,B117,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,1,1
+C0104572,2026-09-06 13:42:39.543899,B025,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,0,1
+C0104573,2026-07-28 05:47:50.542644,B063,TELLER,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0104576,2026-06-16 17:42:39.826511,B052,GENERAL,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0104587,2026-08-09 11:13:46.688390,B014,GENERAL,Signed paperwork for savings account.,0,0,0
+C0104590,2026-07-02 22:14:30.584079,B050,TELLER,Signed paperwork for savings account.,0,0,0
+C0104597,2026-07-28 10:42:15.241764,B118,ACCOUNT_SERVICE,Client came in to update address on file.,0,0,0
+C0104603,2026-06-22 01:13:07.331072,B048,GENERAL,Signed paperwork for savings account.,0,0,0
+C0104607,2026-07-12 01:36:23.954331,B010,GENERAL,Signed paperwork for savings account.,0,0,0
+C0104612,2026-09-01 07:17:38.184476,B078,GENERAL,Client came in to update address on file.,0,0,0
+C0104613,2026-08-11 10:16:21.734002,B075,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0104621,2026-07-30 06:22:16.339196,B006,ACCOUNT_SERVICE,Client came in to update address on file.,0,0,0
+C0104624,2026-08-05 17:21:18.963598,B022,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0104643,2026-07-30 04:46:51.719919,B080,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0104653,2026-06-17 13:29:52.423861,B034,GENERAL,Discussed CD options.,0,0,0
+C0104659,2026-07-12 23:43:54.227622,B002,TELLER,Client came in to update address on file.,0,0,0
+C0104660,2026-08-25 15:41:49.843428,B031,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,1,1
+C0104668,2026-08-15 15:14:54.639347,B015,TELLER,Signed paperwork for savings account.,0,0,0
+C0104670,2026-07-26 19:11:51.186918,B045,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0104677,2026-06-27 18:37:02.327672,B065,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,0,1
+C0104684,2026-08-16 09:41:53.448673,B071,ACCOUNT_SERVICE,Discussed CD options.,0,0,0
+C0104690,2026-06-13 04:20:14.636539,B036,GENERAL,Client came in to update address on file.,0,0,0
+C0104696,2026-08-02 08:17:40.688521,B107,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,1,1
+C0104697,2026-08-28 21:23:40.328590,B068,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,1,1
+C0104698,2026-07-31 07:48:24.892035,B001,ACCOUNT_SERVICE,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0104702,2026-08-04 10:18:33.703256,B053,TELLER,Discussed CD options.,0,0,0
+C0104704,2026-08-10 17:59:04.643845,B014,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,0,1
+C0104712,2026-08-04 17:26:03.213933,B118,ACCOUNT_SERVICE,Signed paperwork for savings account.,0,0,0
+C0104713,2026-07-02 08:33:54.012741,B056,ACCOUNT_SERVICE,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0104717,2026-08-18 15:29:31.256303,B020,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0104720,2026-06-22 07:02:46.715004,B110,TELLER,Discussed CD options.,0,0,0
+C0104731,2026-08-31 16:37:39.108790,B086,TELLER,Discussed CD options.,0,0,0
+C0104736,2026-07-04 18:45:23.736518,B113,GENERAL,Discussed CD options.,0,0,0
+C0104742,2026-07-20 08:08:12.575263,B119,GENERAL,Discussed CD options.,0,0,0
+C0104745,2026-06-15 00:55:51.714149,B085,ACCOUNT_SERVICE,Signed paperwork for savings account.,0,0,0
+C0104746,2026-07-15 09:35:14.652598,B068,TELLER,Discussed CD options.,0,0,0
+C0104763,2026-06-28 09:04:31.322704,B081,GENERAL,Client came in to update address on file.,0,0,0
+C0104780,2026-09-08 23:34:33.396291,B090,TELLER,Client came in to update address on file.,0,0,0
+C0104789,2026-08-14 20:41:09.226498,B012,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,0,1
+C0104793,2026-08-23 20:59:02.389632,B109,TELLER,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0104795,2026-08-10 05:12:58.376199,B064,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,0,1
+C0104801,2026-06-21 09:09:14.871956,B097,ACCOUNT_SERVICE,Signed paperwork for savings account.,0,0,0
+C0104802,2026-06-21 06:24:53.084611,B048,GENERAL,Client came in to update address on file.,0,0,0
+C0104805,2026-06-17 20:37:45.875650,B011,ACCOUNT_SERVICE,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0104812,2026-09-02 08:28:10.100678,B054,TELLER,Client came in to update address on file.,0,0,0
+C0104824,2026-07-23 03:19:04.700336,B053,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0104827,2026-08-09 00:34:05.508108,B076,TELLER,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0104831,2026-07-26 18:57:50.234993,B092,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0104866,2026-07-04 06:08:08.256429,B046,TELLER,Discussed CD options.,0,0,0
+C0104867,2026-06-29 08:58:16.451009,B034,ACCOUNT_SERVICE,Signed paperwork for savings account.,0,0,0
+C0104870,2026-06-24 12:26:24.318260,B083,GENERAL,Discussed CD options.,0,0,0
+C0104882,2026-09-02 01:02:53.244531,B009,GENERAL,Discussed CD options.,0,0,0
+C0104895,2026-09-04 21:41:13.721791,B019,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,1,1
+C0104896,2026-07-31 10:21:54.129921,B003,ACCOUNT_SERVICE,Client came in to update address on file.,0,0,0
+C0104898,2026-07-03 12:21:53.895302,B027,TELLER,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0104911,2026-08-26 18:51:51.183941,B031,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0104913,2026-08-12 17:23:39.715407,B106,ACCOUNT_SERVICE,Signed paperwork for savings account.,0,0,0
+C0104927,2026-08-18 13:34:58.141685,B106,TELLER,Client came in to update address on file.,0,0,0
+C0104945,2026-06-14 07:47:18.728623,B116,TELLER,Client came in to update address on file.,0,0,0
+C0104946,2026-07-05 13:55:00.296189,B046,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,0,1
+C0104949,2026-09-08 09:44:32.009311,B064,GENERAL,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0104950,2026-08-04 09:58:00.147850,B031,TELLER,Signed paperwork for savings account.,0,0,0
+C0104963,2026-07-23 22:48:48.572304,B015,ACCOUNT_SERVICE,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0104967,2026-07-04 11:36:49.781490,B093,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,0,1
+C0104999,2026-08-31 06:33:09.613610,B010,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,0,1
+C0105000,2026-07-03 09:20:34.088880,B032,ACCOUNT_SERVICE,Discussed CD options.,0,0,0
+C0105002,2026-08-10 13:06:01.697387,B036,ACCOUNT_SERVICE,Signed paperwork for savings account.,0,0,0
+C0105003,2026-08-18 04:29:24.699936,B029,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0105016,2026-08-15 08:04:22.787107,B093,ACCOUNT_SERVICE,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0105020,2026-06-20 17:30:59.561288,B103,ACCOUNT_SERVICE,Signed paperwork for savings account.,0,0,0
+C0105029,2026-08-08 23:23:47.295944,B097,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0105032,2026-06-22 20:00:56.016707,B051,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,0,1
+C0105042,2026-08-10 20:13:27.967937,B044,ACCOUNT_SERVICE,Signed paperwork for savings account.,0,0,0
+C0105050,2026-07-15 15:38:39.896470,B094,ACCOUNT_SERVICE,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0105055,2026-08-30 19:37:38.763423,B057,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,1,1
+C0105061,2026-08-04 11:39:08.930794,B019,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0105092,2026-08-25 22:22:08.308825,B062,GENERAL,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0105098,2026-06-28 09:58:14.150747,B033,ACCOUNT_SERVICE,Client came in to update address on file.,0,0,0
+C0105106,2026-07-16 22:42:16.561878,B064,GENERAL,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0105117,2026-07-14 22:30:49.392360,B080,GENERAL,Client came in to update address on file.,0,0,0
+C0105124,2026-06-29 03:01:58.713242,B088,TELLER,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0105126,2026-08-28 11:32:38.728843,B084,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0105128,2026-07-10 02:03:20.726981,B103,GENERAL,Discussed CD options.,0,0,0
+C0105131,2026-06-19 05:11:53.903783,B035,GENERAL,Discussed CD options.,0,0,0
+C0105137,2026-07-03 11:31:04.048377,B044,GENERAL,Client came in to update address on file.,0,0,0
+C0105140,2026-08-15 12:37:28.906921,B086,GENERAL,Client came in to update address on file.,0,0,0
+C0105157,2026-06-17 23:53:41.335482,B091,TELLER,Discussed CD options.,0,0,0
+C0105160,2026-09-04 15:44:45.924888,B092,TELLER,Signed paperwork for savings account.,0,0,0
+C0105162,2026-09-04 16:02:00.079294,B076,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,0,1
+C0105169,2026-06-24 03:28:52.328910,B043,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,0,1
+C0105174,2026-06-25 12:29:40.782321,B081,TELLER,Signed paperwork for savings account.,0,0,0
+C0105176,2026-08-19 01:33:17.279633,B041,GENERAL,Client came in to update address on file.,0,0,0
+C0105179,2026-08-04 18:43:38.028750,B032,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,0,1
+C0105181,2026-08-06 05:50:20.608084,B013,GENERAL,Discussed CD options.,0,0,0
+C0105184,2026-08-19 03:49:37.276197,B044,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0105186,2026-07-25 15:01:33.719225,B057,GENERAL,Client came in to update address on file.,0,0,0
+C0105189,2026-07-21 03:00:18.317107,B068,TELLER,Discussed CD options.,0,0,0
+C0105193,2026-07-19 00:37:54.597958,B097,TELLER,Signed paperwork for savings account.,0,0,0
+C0105194,2026-07-08 22:35:14.341536,B028,GENERAL,Signed paperwork for savings account.,0,0,0
+C0105210,2026-07-06 14:12:56.431898,B050,TELLER,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0105212,2026-07-22 06:09:45.433684,B111,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,0,1
+C0105219,2026-08-10 11:25:40.494612,B065,GENERAL,Discussed CD options.,0,0,0
+C0105222,2026-06-16 08:44:11.110109,B051,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,0,1
+C0105226,2026-08-27 05:15:35.880123,B067,GENERAL,Discussed CD options.,0,0,0
+C0105227,2026-07-15 20:57:45.024947,B105,GENERAL,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0105234,2026-07-20 17:49:39.379490,B018,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,0,1
+C0105236,2026-08-18 06:24:12.651686,B118,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,0,1
+C0105237,2026-09-07 17:34:39.502078,B024,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,1,1
+C0105238,2026-08-24 08:33:20.733979,B020,TELLER,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0105241,2026-07-17 11:59:10.582563,B076,TELLER,Signed paperwork for savings account.,0,0,0
+C0105253,2026-07-15 06:35:47.923781,B043,ACCOUNT_SERVICE,Discussed CD options.,0,0,0
+C0105258,2026-07-16 13:20:06.973218,B029,TELLER,Client came in to update address on file.,0,0,0
+C0105269,2026-06-27 15:15:45.756920,B046,TELLER,Signed paperwork for savings account.,0,0,0
+C0105275,2026-06-13 23:49:23.728428,B030,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0105278,2026-07-28 10:03:31.302256,B106,TELLER,Discussed CD options.,0,0,0
+C0105279,2026-07-05 18:05:30.517455,B019,ACCOUNT_SERVICE,Signed paperwork for savings account.,0,0,0
+C0105290,2026-07-03 16:26:06.176178,B049,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0105291,2026-06-25 09:42:59.927005,B061,GENERAL,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0105294,2026-08-19 17:02:04.920156,B071,GENERAL,Client came in to update address on file.,0,0,0
+C0105298,2026-08-12 08:57:32.842493,B087,GENERAL,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0105300,2026-08-02 16:34:17.017557,B031,TELLER,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0105316,2026-06-22 04:22:00.069128,B114,TELLER,Signed paperwork for savings account.,0,0,0
+C0105318,2026-08-04 03:19:57.407198,B076,GENERAL,Signed paperwork for savings account.,0,0,0
+C0105325,2026-08-16 04:22:30.899918,B026,ACCOUNT_SERVICE,Discussed CD options.,0,0,0
+C0105326,2026-07-30 01:33:57.044596,B077,TELLER,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0105327,2026-08-09 21:45:06.992481,B048,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,0,1
+C0105331,2026-06-27 19:38:18.939914,B101,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,1,1
+C0105341,2026-08-17 06:31:16.547359,B117,TELLER,Client came in to update address on file.,0,0,0
+C0105347,2026-06-18 10:39:09.357114,B066,TELLER,Client came in to update address on file.,0,0,0
+C0105352,2026-06-26 15:14:04.720389,B073,GENERAL,Client came in to update address on file.,0,0,0
+C0105354,2026-08-28 00:28:41.273067,B103,TELLER,Client came in to update address on file.,0,0,0
+C0105360,2026-06-21 07:23:42.774386,B104,ACCOUNT_SERVICE,Discussed CD options.,0,0,0
+C0105373,2026-09-09 18:14:37.352249,B046,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0105374,2026-07-19 22:42:34.885981,B006,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,1,1
+C0105375,2026-07-21 02:49:24.244537,B116,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,0,1
+C0105376,2026-06-18 16:21:44.182880,B061,ACCOUNT_SERVICE,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0105381,2026-07-30 00:20:29.989788,B084,TELLER,Signed paperwork for savings account.,0,0,0
+C0105382,2026-07-20 17:51:06.258600,B016,GENERAL,Client came in to update address on file.,0,0,0
+C0105392,2026-06-30 04:53:22.878333,B116,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0105406,2026-06-15 09:36:08.001759,B090,ACCOUNT_SERVICE,Client came in to update address on file.,0,0,0
+C0105409,2026-06-30 14:55:35.212287,B021,ACCOUNT_SERVICE,Signed paperwork for savings account.,0,0,0
+C0105412,2026-07-04 08:08:59.287674,B055,TELLER,Discussed CD options.,0,0,0
+C0105424,2026-08-24 09:36:28.647936,B081,TELLER,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0105427,2026-07-05 01:09:14.658772,B092,ACCOUNT_SERVICE,Discussed CD options.,0,0,0
+C0105432,2026-07-29 22:22:51.760543,B059,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,0,1
+C0105434,2026-08-28 18:21:38.002035,B101,ACCOUNT_SERVICE,Signed paperwork for savings account.,0,0,0
+C0105458,2026-09-07 13:27:42.691147,B113,GENERAL,Client came in to update address on file.,0,0,0
+C0105469,2026-06-13 19:56:21.419812,B094,ACCOUNT_SERVICE,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0105476,2026-07-18 08:56:23.147700,B071,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,0,1
+C0105478,2026-08-28 19:28:15.525166,B117,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,0,1
+C0105479,2026-08-03 22:15:59.695666,B044,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0105480,2026-08-30 22:47:15.258588,B074,TELLER,Discussed CD options.,0,0,0
+C0105484,2026-07-01 15:30:28.623621,B006,TELLER,Client came in to update address on file.,0,0,0
+C0105492,2026-07-03 01:47:32.787118,B078,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,0,1
+C0105494,2026-08-01 09:34:05.159767,B092,GENERAL,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0105502,2026-06-22 01:01:11.128162,B028,GENERAL,Discussed CD options.,0,0,0
+C0105512,2026-06-26 17:25:27.357059,B035,ACCOUNT_SERVICE,Signed paperwork for savings account.,0,0,0
+C0105514,2026-08-13 12:51:50.915911,B032,GENERAL,Discussed CD options.,0,0,0
+C0105515,2026-07-31 09:21:46.194268,B010,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0105522,2026-07-30 06:04:55.450042,B022,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0105532,2026-07-30 05:54:27.790798,B023,TELLER,Discussed CD options.,0,0,0
+C0105569,2026-08-20 10:12:00.937697,B033,ACCOUNT_SERVICE,Signed paperwork for savings account.,0,0,0
+C0105579,2026-07-16 18:41:13.568726,B031,TELLER,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0105581,2026-08-02 04:15:19.561962,B018,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,1,1
+C0105586,2026-06-27 23:04:33.668186,B027,TELLER,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0105594,2026-07-05 10:29:04.814710,B064,TELLER,Discussed CD options.,0,0,0
+C0105601,2026-08-28 00:48:37.930968,B002,ACCOUNT_SERVICE,Discussed CD options.,0,0,0
+C0105602,2026-09-05 22:26:37.294444,B114,GENERAL,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0105606,2026-07-29 15:41:39.892320,B016,GENERAL,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0105607,2026-07-12 06:23:30.683421,B085,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,0,1
+C0105608,2026-07-11 13:55:45.793944,B031,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0105609,2026-07-22 18:34:59.201043,B003,GENERAL,Client came in to update address on file.,0,0,0
+C0105615,2026-08-14 21:03:36.826370,B015,ACCOUNT_SERVICE,Discussed CD options.,0,0,0
+C0105616,2026-07-30 18:24:40.153009,B005,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0105623,2026-07-18 16:13:13.404177,B029,ACCOUNT_SERVICE,Client came in to update address on file.,0,0,0
+C0105624,2026-07-18 09:25:28.020485,B015,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,1,1
+C0105628,2026-08-04 05:47:12.360416,B002,GENERAL,Signed paperwork for savings account.,0,0,0
+C0105643,2026-07-14 14:39:51.208852,B107,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0105647,2026-08-16 17:14:02.037855,B110,GENERAL,Signed paperwork for savings account.,0,0,0
+C0105649,2026-09-08 10:20:00.227271,B029,GENERAL,Signed paperwork for savings account.,0,0,0
+C0105651,2026-07-17 11:16:44.132965,B054,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,0,1
+C0105653,2026-08-22 19:00:44.156362,B077,TELLER,Signed paperwork for savings account.,0,0,0
+C0105673,2026-07-03 03:34:49.352320,B010,ACCOUNT_SERVICE,Discussed CD options.,0,0,0
+C0105675,2026-09-08 17:01:47.383266,B035,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0105679,2026-07-16 04:50:43.671142,B051,ACCOUNT_SERVICE,Discussed CD options.,0,0,0
+C0105685,2026-07-07 23:24:02.578882,B108,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0105700,2026-07-31 20:14:16.613982,B009,GENERAL,Discussed CD options.,0,0,0
+C0105703,2026-09-05 05:18:18.361060,B100,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0105723,2026-06-18 13:09:26.328803,B037,TELLER,Signed paperwork for savings account.,0,0,0
+C0105726,2026-08-31 19:17:00.979040,B096,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,0,1
+C0105730,2026-08-20 02:18:38.530524,B055,ACCOUNT_SERVICE,Signed paperwork for savings account.,0,0,0
+C0105735,2026-08-04 13:40:49.312426,B058,GENERAL,Discussed CD options.,0,0,0
+C0105749,2026-07-04 18:00:39.823543,B035,GENERAL,Client came in to update address on file.,0,0,0
+C0105753,2026-06-28 07:46:41.074980,B023,ACCOUNT_SERVICE,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0105754,2026-09-07 02:37:59.458220,B050,TELLER,Client came in to update address on file.,0,0,0
+C0105756,2026-08-20 22:42:09.797028,B032,ACCOUNT_SERVICE,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0105757,2026-06-25 04:46:30.333946,B063,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,0,1
+C0105767,2026-06-20 23:50:12.154571,B116,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0105770,2026-07-02 12:02:34.523147,B033,GENERAL,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0105773,2026-09-06 16:54:01.691409,B034,ACCOUNT_SERVICE,Discussed CD options.,0,0,0
+C0105784,2026-08-07 14:56:22.167849,B105,ACCOUNT_SERVICE,Client came in to update address on file.,0,0,0
+C0105785,2026-07-18 17:56:13.822193,B076,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,0,1
+C0105794,2026-08-11 15:41:37.283795,B041,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0105811,2026-07-24 02:53:16.574081,B095,TELLER,Signed paperwork for savings account.,0,0,0
+C0105812,2026-07-09 09:03:24.847833,B087,ACCOUNT_SERVICE,Discussed CD options.,0,0,0
+C0105815,2026-08-06 00:27:54.501295,B090,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0105818,2026-07-22 09:34:18.587085,B058,TELLER,Discussed CD options.,0,0,0
+C0105819,2026-07-10 15:01:45.071079,B047,GENERAL,Client came in to update address on file.,0,0,0
+C0105833,2026-08-30 15:03:52.607970,B080,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,0,1
+C0105834,2026-07-23 08:30:23.760333,B020,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,1,1
+C0105837,2026-06-19 03:24:17.000847,B004,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0105842,2026-08-13 18:46:38.749784,B011,TELLER,Client came in to update address on file.,0,0,0
+C0105860,2026-09-10 09:42:35.953237,B076,ACCOUNT_SERVICE,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0105867,2026-07-24 04:45:36.360198,B059,ACCOUNT_SERVICE,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0105873,2026-09-05 10:26:27.092216,B088,ACCOUNT_SERVICE,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0105874,2026-06-13 21:32:34.799554,B015,GENERAL,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0105880,2026-06-21 12:08:09.639160,B059,TELLER,Signed paperwork for savings account.,0,0,0
+C0105907,2026-07-20 06:38:22.726285,B109,ACCOUNT_SERVICE,Signed paperwork for savings account.,0,0,0
+C0105908,2026-08-27 15:13:05.519317,B016,ACCOUNT_SERVICE,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0105913,2026-07-08 15:15:56.088265,B115,TELLER,Signed paperwork for savings account.,0,0,0
+C0105914,2026-07-07 16:32:46.281708,B115,TELLER,Client came in to update address on file.,0,0,0
+C0105923,2026-09-08 04:30:51.657789,B020,GENERAL,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0105932,2026-09-03 08:27:01.264759,B033,GENERAL,Client came in to update address on file.,0,0,0
+C0105934,2026-08-05 15:24:40.538451,B113,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,0,1
+C0105940,2026-09-01 07:13:06.958579,B021,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,0,1
+C0105941,2026-07-06 16:54:21.403581,B087,GENERAL,Client came in to update address on file.,0,0,0
+C0105969,2026-06-20 05:03:20.185682,B096,ACCOUNT_SERVICE,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0105991,2026-07-20 08:05:53.061597,B045,ACCOUNT_SERVICE,Discussed CD options.,0,0,0
+C0105992,2026-09-02 06:38:26.484049,B103,TELLER,Signed paperwork for savings account.,0,0,0
+C0105994,2026-08-31 00:29:46.837420,B051,TELLER,Discussed CD options.,0,0,0
+C0105997,2026-07-03 19:27:41.283099,B030,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,1,1
+C0106003,2026-06-18 02:34:53.976474,B024,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0106013,2026-07-26 02:00:16.235469,B079,GENERAL,Discussed CD options.,0,0,0
+C0106025,2026-07-10 22:40:16.103249,B002,TELLER,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0106029,2026-08-07 19:42:52.914375,B036,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,1,1
+C0106030,2026-06-21 21:06:29.267030,B024,GENERAL,Signed paperwork for savings account.,0,0,0
+C0106039,2026-07-04 22:18:31.524324,B083,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,1,1
+C0106041,2026-09-03 20:25:51.445482,B052,ACCOUNT_SERVICE,Discussed CD options.,0,0,0
+C0106055,2026-07-01 21:42:23.480898,B031,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,1,1
+C0106057,2026-08-07 21:37:39.041862,B004,TELLER,Client came in to update address on file.,0,0,0
+C0106075,2026-08-31 05:51:10.002805,B066,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,1,1
+C0106077,2026-07-07 21:16:08.221877,B010,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0106080,2026-07-27 00:07:58.505879,B080,TELLER,Client came in to update address on file.,0,0,0
+C0106083,2026-09-06 17:59:44.125161,B062,TELLER,Signed paperwork for savings account.,0,0,0
+C0106103,2026-09-05 06:08:42.961623,B003,GENERAL,Discussed CD options.,0,0,0
+C0106110,2026-07-26 22:23:28.723515,B027,ACCOUNT_SERVICE,Discussed CD options.,0,0,0
+C0106119,2026-07-06 09:36:44.911592,B097,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,0,1
+C0106123,2026-07-13 11:50:35.724794,B043,ACCOUNT_SERVICE,Client came in to update address on file.,0,0,0
+C0106127,2026-09-06 12:38:03.593254,B073,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,1,1
+C0106149,2026-08-27 14:18:47.074199,B062,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,0,1
+C0106151,2026-07-02 01:05:32.023516,B093,GENERAL,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0106152,2026-08-09 22:41:35.549591,B078,TELLER,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0106153,2026-07-28 05:01:39.097700,B026,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,1,1
+C0106162,2026-07-22 17:22:53.410668,B008,GENERAL,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0106164,2026-07-28 12:38:12.654135,B084,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,0,1
+C0106173,2026-08-20 05:36:55.392512,B090,ACCOUNT_SERVICE,Discussed CD options.,0,0,0
+C0106176,2026-06-24 16:03:52.477598,B072,GENERAL,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0106177,2026-06-21 19:47:06.411034,B052,ACCOUNT_SERVICE,Client came in to update address on file.,0,0,0
+C0106179,2026-06-15 07:48:40.549240,B098,ACCOUNT_SERVICE,Client came in to update address on file.,0,0,0
+C0106193,2026-09-03 17:18:47.191990,B007,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,0,1
+C0106196,2026-09-04 08:47:38.721028,B023,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0106199,2026-08-20 02:30:59.264516,B076,ACCOUNT_SERVICE,Discussed CD options.,0,0,0
+C0106201,2026-08-27 02:59:59.082418,B005,GENERAL,Signed paperwork for savings account.,0,0,0
+C0106210,2026-09-09 10:55:39.928284,B094,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0106213,2026-08-01 09:09:03.448881,B046,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,1,1
+C0106216,2026-08-26 09:09:13.461798,B093,TELLER,Discussed CD options.,0,0,0
+C0106218,2026-07-07 19:52:23.977069,B006,TELLER,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0106221,2026-07-10 14:07:29.909841,B097,GENERAL,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0106231,2026-08-22 14:58:42.505352,B005,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0106233,2026-08-28 18:01:25.362441,B103,ACCOUNT_SERVICE,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0106237,2026-07-09 02:31:32.635223,B007,GENERAL,Signed paperwork for savings account.,0,0,0
+C0106243,2026-08-04 10:33:51.835911,B074,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,1,1
+C0106250,2026-07-27 20:22:34.914465,B091,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,1,1
+C0106253,2026-08-01 22:39:25.022347,B071,ACCOUNT_SERVICE,Discussed CD options.,0,0,0
+C0106265,2026-06-13 15:40:30.461240,B061,GENERAL,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0106283,2026-08-31 15:10:00.777581,B073,ACCOUNT_SERVICE,Client came in to update address on file.,0,0,0
+C0106284,2026-07-22 18:38:29.368201,B100,GENERAL,Signed paperwork for savings account.,0,0,0
+C0106285,2026-06-19 05:42:41.035355,B094,TELLER,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0106293,2026-06-25 00:57:51.885645,B021,ACCOUNT_SERVICE,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0106294,2026-06-27 11:41:25.466747,B057,TELLER,Signed paperwork for savings account.,0,0,0
+C0106298,2026-08-18 06:08:06.726753,B042,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,0,1
+C0106301,2026-09-08 03:14:03.008346,B065,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,0,1
+C0106312,2026-07-27 02:18:22.056638,B085,ACCOUNT_SERVICE,Client came in to update address on file.,0,0,0
+C0106314,2026-08-18 23:42:40.502944,B011,TELLER,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0106318,2026-07-20 11:44:10.517454,B039,GENERAL,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0106331,2026-08-11 19:48:54.565919,B039,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,0,1
+C0106335,2026-06-15 15:45:57.907040,B004,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,0,1
+C0106344,2026-07-12 12:59:02.604942,B105,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,1,1
+C0106345,2026-07-01 03:57:09.864668,B065,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,1,1
+C0106351,2026-07-17 13:27:31.870736,B057,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,0,1
+C0106357,2026-08-01 16:45:16.515374,B071,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,1,1
+C0106362,2026-08-14 07:10:20.844827,B117,TELLER,Discussed CD options.,0,0,0
+C0106363,2026-06-13 17:16:24.555939,B067,TELLER,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0106381,2026-08-19 21:28:47.042653,B087,TELLER,Signed paperwork for savings account.,0,0,0
+C0106406,2026-06-28 15:59:38.854807,B087,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,1,1
+C0106418,2026-08-17 05:51:01.495044,B112,TELLER,Signed paperwork for savings account.,0,0,0
+C0106429,2026-08-13 16:29:53.177875,B041,GENERAL,Discussed CD options.,0,0,0
+C0106432,2026-06-24 23:52:52.895805,B046,ACCOUNT_SERVICE,Signed paperwork for savings account.,0,0,0
+C0106435,2026-08-03 19:18:23.619077,B036,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,1,1
+C0106436,2026-06-14 17:28:25.709630,B032,TELLER,Client came in to update address on file.,0,0,0
+C0106439,2026-09-05 22:12:39.486852,B033,TELLER,Discussed CD options.,0,0,0
+C0106442,2026-08-12 14:02:52.870646,B010,TELLER,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0106443,2026-09-03 23:51:21.951194,B024,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,1,1
+C0106445,2026-06-16 19:34:39.635243,B031,GENERAL,Client came in to update address on file.,0,0,0
+C0106449,2026-07-21 10:27:08.853491,B061,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,0,1
+C0106457,2026-07-21 11:37:36.362599,B107,ACCOUNT_SERVICE,Client came in to update address on file.,0,0,0
+C0106462,2026-06-16 22:15:50.155773,B089,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0106464,2026-07-12 21:21:04.699191,B083,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,0,1
+C0106466,2026-08-15 07:21:43.962860,B065,ACCOUNT_SERVICE,Discussed CD options.,0,0,0
+C0106469,2026-09-09 09:00:30.197631,B009,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,1,1
+C0106482,2026-07-19 21:53:38.401629,B105,TELLER,Client came in to update address on file.,0,0,0
+C0106498,2026-08-04 08:59:17.394020,B047,GENERAL,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0106524,2026-09-05 22:49:02.700404,B029,GENERAL,Client came in to update address on file.,0,0,0
+C0106526,2026-06-17 01:57:52.769791,B004,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,0,1
+C0106527,2026-08-08 04:23:34.874990,B111,TELLER,Client came in to update address on file.,0,0,0
+C0106542,2026-08-06 03:39:04.779504,B103,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,0,1
+C0106557,2026-08-12 10:44:42.288471,B022,GENERAL,Discussed CD options.,0,0,0
+C0106559,2026-06-15 09:48:53.576467,B056,ACCOUNT_SERVICE,Discussed CD options.,0,0,0
+C0106560,2026-07-31 09:39:40.115741,B079,TELLER,Discussed CD options.,0,0,0
+C0106561,2026-07-23 17:04:18.087424,B111,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,1,1
+C0106568,2026-08-09 07:40:52.913009,B109,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,0,1
+C0106575,2026-07-31 15:28:10.665649,B108,ACCOUNT_SERVICE,Client came in to update address on file.,0,0,0
+C0106595,2026-06-20 20:04:18.143797,B117,TELLER,Client came in to update address on file.,0,0,0
+C0106597,2026-07-20 03:15:00.680970,B095,TELLER,Client came in to update address on file.,0,0,0
+C0106610,2026-08-20 18:44:33.750724,B102,GENERAL,Client came in to update address on file.,0,0,0
+C0106617,2026-06-13 14:43:11.405462,B014,TELLER,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0106618,2026-08-08 13:08:32.673221,B099,TELLER,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0106619,2026-06-18 15:30:11.645417,B061,GENERAL,Signed paperwork for savings account.,0,0,0
+C0106622,2026-06-14 22:25:53.141810,B035,TELLER,Client came in to update address on file.,0,0,0
+C0106632,2026-06-15 22:16:58.509278,B084,ACCOUNT_SERVICE,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0106640,2026-08-01 15:48:00.595200,B061,GENERAL,Client came in to update address on file.,0,0,0
+C0106645,2026-07-22 23:39:24.906516,B033,GENERAL,Client came in to update address on file.,0,0,0
+C0106667,2026-07-12 09:08:47.205372,B007,GENERAL,Discussed CD options.,0,0,0
+C0106668,2026-08-16 12:05:46.943254,B072,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,0,1
+C0106670,2026-07-28 06:31:08.344921,B090,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,1,1
+C0106695,2026-06-21 13:35:53.076965,B015,GENERAL,Discussed CD options.,0,0,0
+C0106696,2026-08-03 14:47:33.012861,B081,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0106706,2026-08-20 13:18:52.031539,B025,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,1,1
+C0106707,2026-08-09 23:49:32.973335,B078,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,0,1
+C0106709,2026-09-04 02:14:48.785445,B094,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,1,1
+C0106715,2026-08-09 22:45:49.154033,B060,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,1,1
+C0106735,2026-07-05 07:23:31.985201,B062,TELLER,Signed paperwork for savings account.,0,0,0
+C0106741,2026-06-20 05:32:45.498254,B086,TELLER,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0106750,2026-07-11 07:33:15.625742,B052,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,0,1
+C0106754,2026-07-29 15:18:15.053053,B017,ACCOUNT_SERVICE,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0106755,2026-08-20 06:22:22.679076,B025,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0106756,2026-08-12 02:32:18.017392,B066,ACCOUNT_SERVICE,Client came in to update address on file.,0,0,0
+C0106766,2026-06-14 11:16:12.152082,B046,ACCOUNT_SERVICE,Client came in to update address on file.,0,0,0
+C0106773,2026-07-30 15:44:36.863990,B068,ACCOUNT_SERVICE,Discussed CD options.,0,0,0
+C0106776,2026-07-03 12:58:15.299265,B094,TELLER,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0106781,2026-06-13 17:57:59.304156,B031,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,1,1
+C0106782,2026-08-22 08:07:00.906147,B058,TELLER,Signed paperwork for savings account.,0,0,0
+C0106789,2026-06-21 21:52:51.536119,B085,ACCOUNT_SERVICE,Client came in to update address on file.,0,0,0
+C0106797,2026-08-08 20:01:46.018901,B107,TELLER,Client came in to update address on file.,0,0,0
+C0106806,2026-07-15 16:37:57.366522,B003,TELLER,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0106808,2026-06-23 07:48:49.673882,B005,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,1,1
+C0106810,2026-08-10 15:10:27.793467,B023,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,1,1
+C0106819,2026-07-31 00:56:34.970759,B029,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,1,1
+C0106855,2026-09-05 00:27:27.106192,B064,TELLER,Discussed CD options.,0,0,0
+C0106858,2026-09-05 11:20:17.943279,B070,GENERAL,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0106862,2026-09-05 09:58:14.311552,B061,GENERAL,Signed paperwork for savings account.,0,0,0
+C0106866,2026-07-28 16:13:01.674775,B041,ACCOUNT_SERVICE,Client came in to update address on file.,0,0,0
+C0106867,2026-08-25 07:19:30.059924,B003,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,0,1
+C0106869,2026-08-23 21:24:02.088924,B099,ACCOUNT_SERVICE,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0106870,2026-07-30 10:33:53.274709,B056,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0106872,2026-07-01 20:33:38.437310,B018,GENERAL,Signed paperwork for savings account.,0,0,0
+C0106873,2026-08-13 09:11:26.620620,B017,ACCOUNT_SERVICE,Client came in to update address on file.,0,0,0
+C0106876,2026-08-11 21:21:46.145001,B006,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0106877,2026-08-17 11:26:53.927762,B100,ACCOUNT_SERVICE,Signed paperwork for savings account.,0,0,0
+C0106879,2026-07-27 23:55:19.831026,B084,GENERAL,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0106886,2026-07-31 03:07:34.959290,B017,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,0,1
+C0106897,2026-07-09 02:52:37.651133,B023,GENERAL,Client came in to update address on file.,0,0,0
+C0106903,2026-06-17 18:44:51.772518,B034,TELLER,Discussed CD options.,0,0,0
+C0106917,2026-08-23 01:45:10.277812,B086,ACCOUNT_SERVICE,Client came in to update address on file.,0,0,0
+C0106919,2026-06-23 23:02:49.111338,B030,GENERAL,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0106921,2026-07-10 19:18:21.850325,B019,GENERAL,Client came in to update address on file.,0,0,0
+C0106924,2026-07-11 14:40:16.914832,B095,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,0,1
+C0106940,2026-06-23 00:51:38.962404,B016,ACCOUNT_SERVICE,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0106950,2026-09-03 11:14:00.339372,B041,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0106967,2026-08-31 15:40:07.462974,B016,GENERAL,Client came in to update address on file.,0,0,0
+C0106968,2026-07-11 05:13:38.323427,B091,GENERAL,Signed paperwork for savings account.,0,0,0
+C0106974,2026-08-02 04:21:42.929840,B050,TELLER,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0106977,2026-07-15 08:58:39.198970,B004,GENERAL,Discussed CD options.,0,0,0
+C0106983,2026-07-08 06:14:07.131928,B101,ACCOUNT_SERVICE,Signed paperwork for savings account.,0,0,0
+C0106992,2026-07-12 05:39:47.053031,B043,GENERAL,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0107006,2026-07-28 11:55:01.819898,B115,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,1,1
+C0107007,2026-09-07 03:27:46.984822,B014,TELLER,Client came in to update address on file.,0,0,0
+C0107010,2026-07-18 17:33:21.105610,B024,ACCOUNT_SERVICE,Signed paperwork for savings account.,0,0,0
+C0107029,2026-08-26 11:48:39.847965,B017,GENERAL,Signed paperwork for savings account.,0,0,0
+C0107032,2026-08-30 04:10:30.651944,B023,TELLER,Discussed CD options.,0,0,0
+C0107052,2026-09-04 04:38:16.912596,B095,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0107053,2026-08-09 01:49:52.434576,B058,GENERAL,Discussed CD options.,0,0,0
+C0107057,2026-08-16 00:13:13.012414,B009,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0107079,2026-06-18 01:53:56.838214,B078,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0107082,2026-07-06 07:31:37.694340,B001,ACCOUNT_SERVICE,Client came in to update address on file.,0,0,0
+C0107087,2026-07-09 16:24:22.101047,B075,TELLER,Client came in to update address on file.,0,0,0
+C0107089,2026-07-04 13:48:07.430558,B109,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,1,1
+C0107092,2026-08-06 14:50:17.878815,B119,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0107096,2026-06-14 18:01:42.840613,B092,TELLER,Discussed CD options.,0,0,0
+C0107099,2026-08-07 23:48:11.956983,B100,ACCOUNT_SERVICE,Discussed CD options.,0,0,0
+C0107107,2026-08-19 20:33:35.208552,B012,GENERAL,Signed paperwork for savings account.,0,0,0
+C0107113,2026-07-26 07:05:24.466210,B068,TELLER,Client came in to update address on file.,0,0,0
+C0107123,2026-06-25 20:54:23.979659,B037,ACCOUNT_SERVICE,Discussed CD options.,0,0,0
+C0107138,2026-08-26 23:21:43.777699,B014,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,0,1
+C0107151,2026-06-27 13:18:22.394410,B060,TELLER,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0107159,2026-07-06 12:24:42.264004,B016,GENERAL,Signed paperwork for savings account.,0,0,0
+C0107168,2026-07-23 23:14:16.189913,B035,GENERAL,Client came in to update address on file.,0,0,0
+C0107176,2026-08-20 20:01:10.178474,B067,ACCOUNT_SERVICE,Signed paperwork for savings account.,0,0,0
+C0107177,2026-08-28 01:03:21.767010,B072,TELLER,Signed paperwork for savings account.,0,0,0
+C0107194,2026-07-21 15:54:58.731818,B091,ACCOUNT_SERVICE,Signed paperwork for savings account.,0,0,0
+C0107197,2026-06-18 00:05:06.298726,B082,GENERAL,Discussed CD options.,0,0,0
+C0107214,2026-07-22 00:03:54.627642,B048,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0107222,2026-07-07 10:59:23.908271,B105,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,0,1
+C0107225,2026-08-07 00:35:32.794043,B041,TELLER,Discussed CD options.,0,0,0
+C0107228,2026-09-03 14:11:04.028161,B094,GENERAL,Client came in to update address on file.,0,0,0
+C0107230,2026-06-25 15:15:44.626574,B007,GENERAL,Signed paperwork for savings account.,0,0,0
+C0107242,2026-06-19 18:15:45.246023,B037,TELLER,Signed paperwork for savings account.,0,0,0
+C0107248,2026-07-21 03:44:27.067161,B055,ACCOUNT_SERVICE,Signed paperwork for savings account.,0,0,0
+C0107258,2026-08-25 09:11:38.663829,B085,ACCOUNT_SERVICE,Signed paperwork for savings account.,0,0,0
+C0107259,2026-06-22 02:06:04.603022,B098,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,0,1
+C0107267,2026-08-04 20:16:42.758945,B088,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,0,1
+C0107273,2026-07-19 13:35:28.154940,B049,GENERAL,Discussed CD options.,0,0,0
+C0107274,2026-08-31 15:20:48.850930,B057,TELLER,Signed paperwork for savings account.,0,0,0
+C0107279,2026-06-16 05:38:35.878983,B001,TELLER,Signed paperwork for savings account.,0,0,0
+C0107284,2026-06-17 21:16:37.981730,B089,GENERAL,Client came in to update address on file.,0,0,0
+C0107289,2026-08-01 07:39:40.509961,B060,GENERAL,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0107293,2026-08-27 10:25:04.115435,B003,GENERAL,Discussed CD options.,0,0,0
+C0107295,2026-08-12 13:39:46.433747,B057,TELLER,Signed paperwork for savings account.,0,0,0
+C0107299,2026-09-08 10:50:30.681750,B102,ACCOUNT_SERVICE,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0107310,2026-08-17 09:06:54.355463,B034,ACCOUNT_SERVICE,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0107320,2026-08-18 21:02:47.836818,B039,TELLER,Discussed CD options.,0,0,0
+C0107323,2026-08-21 17:48:10.930273,B030,TELLER,Discussed CD options.,0,0,0
+C0107333,2026-08-21 05:11:47.919539,B087,GENERAL,Client came in to update address on file.,0,0,0
+C0107334,2026-07-01 20:57:20.184523,B085,ACCOUNT_SERVICE,Client came in to update address on file.,0,0,0
+C0107337,2026-09-09 14:28:13.031328,B097,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,0,1
+C0107338,2026-07-04 22:29:04.243665,B107,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0107350,2026-08-10 21:09:47.747378,B031,GENERAL,Discussed CD options.,0,0,0
+C0107353,2026-08-22 23:13:59.005725,B001,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,1,1
+C0107363,2026-06-16 20:14:10.528891,B023,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0107368,2026-06-27 14:30:51.029001,B032,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,0,1
+C0107376,2026-09-02 16:41:03.255203,B084,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,1,1
+C0107385,2026-08-26 19:09:52.819993,B057,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,1,1
+C0107386,2026-06-22 18:37:38.398869,B025,TELLER,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0107390,2026-07-13 16:44:49.360400,B111,TELLER,Client came in to update address on file.,0,0,0
+C0107394,2026-08-21 12:30:43.381986,B099,GENERAL,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0107397,2026-07-06 08:40:57.578281,B027,GENERAL,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0107414,2026-06-23 07:49:48.547195,B074,ACCOUNT_SERVICE,Signed paperwork for savings account.,0,0,0
+C0107421,2026-06-22 21:58:05.251251,B010,GENERAL,Client came in to update address on file.,0,0,0
+C0107428,2026-07-01 07:25:26.370348,B021,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,0,1
+C0107440,2026-07-24 08:40:03.863700,B071,GENERAL,Signed paperwork for savings account.,0,0,0
+C0107445,2026-08-15 13:29:06.213758,B002,GENERAL,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0107460,2026-09-07 09:38:39.040800,B063,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0107463,2026-07-03 20:17:41.887270,B002,GENERAL,Client came in to update address on file.,0,0,0
+C0107470,2026-06-25 14:26:57.270492,B019,GENERAL,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0107476,2026-08-05 09:39:10.786357,B100,TELLER,Discussed CD options.,0,0,0
+C0107477,2026-07-08 18:44:02.167073,B020,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0107483,2026-06-19 09:25:21.703169,B082,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,0,1
+C0107484,2026-06-16 00:52:11.427632,B105,TELLER,Client came in to update address on file.,0,0,0
+C0107487,2026-06-18 20:14:11.039692,B049,ACCOUNT_SERVICE,Client came in to update address on file.,0,0,0
+C0107498,2026-07-22 10:28:52.275887,B115,ACCOUNT_SERVICE,Signed paperwork for savings account.,0,0,0
+C0107507,2026-08-21 13:10:03.241356,B079,GENERAL,Signed paperwork for savings account.,0,0,0
+C0107508,2026-08-29 05:18:12.015726,B073,GENERAL,Signed paperwork for savings account.,0,0,0
+C0107510,2026-07-23 20:03:54.818106,B039,GENERAL,Client came in to update address on file.,0,0,0
+C0107515,2026-09-05 21:28:17.891896,B005,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,0,1
+C0107517,2026-06-19 01:25:02.517131,B006,TELLER,Signed paperwork for savings account.,0,0,0
+C0107530,2026-08-20 03:28:41.166232,B002,GENERAL,Signed paperwork for savings account.,0,0,0
+C0107544,2026-08-16 08:48:45.076159,B097,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0107547,2026-07-04 20:52:30.792952,B030,TELLER,Client came in to update address on file.,0,0,0
+C0107551,2026-07-18 18:58:14.217702,B070,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,0,1
+C0107553,2026-08-31 07:01:13.830517,B012,GENERAL,Client came in to update address on file.,0,0,0
+C0107563,2026-09-01 02:11:22.957370,B062,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0107570,2026-07-21 22:18:54.462671,B041,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,0,1
+C0107572,2026-09-10 21:55:59.758192,B061,GENERAL,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0107586,2026-07-10 22:45:09.429163,B015,TELLER,Client came in to update address on file.,0,0,0
+C0107599,2026-08-31 09:55:22.759114,B039,GENERAL,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0107606,2026-08-25 02:59:25.468600,B099,ACCOUNT_SERVICE,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0107608,2026-06-17 03:59:20.640495,B107,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,1,1
+C0107612,2026-08-10 15:03:10.865695,B026,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,0,1
+C0107618,2026-06-30 11:36:20.840976,B084,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,1,1
+C0107622,2026-06-16 00:27:58.574584,B058,GENERAL,Signed paperwork for savings account.,0,0,0
+C0107625,2026-06-22 18:29:25.474748,B002,TELLER,Signed paperwork for savings account.,0,0,0
+C0107626,2026-07-08 21:44:43.686287,B102,GENERAL,Client came in to update address on file.,0,0,0
+C0107631,2026-08-18 01:02:09.002271,B042,ACCOUNT_SERVICE,Signed paperwork for savings account.,0,0,0
+C0107640,2026-08-05 19:23:56.091279,B109,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,0,1
+C0107645,2026-08-03 22:05:45.218910,B039,TELLER,Client came in to update address on file.,0,0,0
+C0107652,2026-07-28 03:58:52.356761,B021,ACCOUNT_SERVICE,Discussed CD options.,0,0,0
+C0107659,2026-07-01 16:03:11.608138,B046,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,0,1
+C0107663,2026-08-08 07:01:51.773962,B030,GENERAL,Client came in to update address on file.,0,0,0
+C0107665,2026-07-25 21:47:41.930471,B028,GENERAL,Signed paperwork for savings account.,0,0,0
+C0107676,2026-08-11 18:13:57.176546,B072,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0107682,2026-09-08 04:00:28.307439,B058,ACCOUNT_SERVICE,Signed paperwork for savings account.,0,0,0
+C0107684,2026-09-05 05:36:22.359336,B022,TELLER,Discussed CD options.,0,0,0
+C0107686,2026-08-18 18:20:11.620229,B044,TELLER,Client came in to update address on file.,0,0,0
+C0107692,2026-07-09 07:30:10.232980,B100,ACCOUNT_SERVICE,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0107695,2026-06-17 15:22:20.379846,B073,TELLER,Client came in to update address on file.,0,0,0
+C0107701,2026-09-10 11:20:48.920753,B070,TELLER,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0107703,2026-07-13 03:08:19.017125,B095,TELLER,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0107706,2026-07-01 01:03:08.105531,B101,ACCOUNT_SERVICE,Client came in to update address on file.,0,0,0
+C0107722,2026-07-13 20:28:06.529338,B070,GENERAL,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0107723,2026-08-29 01:37:30.350575,B007,GENERAL,Client came in to update address on file.,0,0,0
+C0107732,2026-07-27 09:35:36.613316,B093,GENERAL,Discussed CD options.,0,0,0
+C0107741,2026-08-28 07:59:25.994345,B108,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,1,1
+C0107742,2026-09-04 04:01:25.690649,B099,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,0,1
+C0107745,2026-08-29 13:11:01.195666,B056,GENERAL,Discussed CD options.,0,0,0
+C0107749,2026-06-15 13:07:50.400556,B001,GENERAL,Discussed CD options.,0,0,0
+C0107754,2026-07-13 22:36:47.807779,B018,GENERAL,Discussed CD options.,0,0,0
+C0107758,2026-08-28 13:02:03.601460,B096,GENERAL,Discussed CD options.,0,0,0
+C0107766,2026-08-31 12:12:25.634970,B032,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,1,1
+C0107773,2026-09-06 17:09:37.419344,B013,TELLER,Client came in to update address on file.,0,0,0
+C0107782,2026-07-25 16:08:03.110190,B077,GENERAL,Discussed CD options.,0,0,0
+C0107783,2026-07-07 20:49:48.424568,B002,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,0,1
+C0107804,2026-06-19 01:02:24.265628,B087,ACCOUNT_SERVICE,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0107806,2026-09-09 22:47:59.803037,B022,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,0,1
+C0107811,2026-06-29 00:22:03.663303,B002,TELLER,Client came in to update address on file.,0,0,0
+C0107814,2026-08-05 13:09:00.088916,B101,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,0,1
+C0107827,2026-07-26 19:50:28.779842,B085,ACCOUNT_SERVICE,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0107829,2026-06-27 05:43:06.025804,B003,TELLER,Client came in to update address on file.,0,0,0
+C0107831,2026-07-17 07:59:17.818818,B040,GENERAL,Discussed CD options.,0,0,0
+C0107844,2026-08-17 14:59:53.867405,B076,TELLER,Discussed CD options.,0,0,0
+C0107848,2026-09-10 10:04:37.824328,B028,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,0,1
+C0107851,2026-07-06 15:46:54.447759,B060,ACCOUNT_SERVICE,Client came in to update address on file.,0,0,0
+C0107863,2026-06-25 20:45:25.482632,B041,ACCOUNT_SERVICE,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0107869,2026-08-19 09:19:27.823884,B009,ACCOUNT_SERVICE,Client came in to update address on file.,0,0,0
+C0107900,2026-07-03 03:09:49.827378,B078,TELLER,Discussed CD options.,0,0,0
+C0107920,2026-08-14 15:04:57.854608,B057,ACCOUNT_SERVICE,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0107925,2026-06-14 12:20:21.496398,B063,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,1,1
+C0107926,2026-06-26 20:49:44.756802,B065,GENERAL,Signed paperwork for savings account.,0,0,0
+C0107928,2026-07-28 17:52:46.400615,B110,GENERAL,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0107932,2026-06-25 17:30:17.141833,B052,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,0,1
+C0107944,2026-08-03 16:42:57.827364,B081,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0107950,2026-08-08 20:26:48.542413,B026,GENERAL,Client came in to update address on file.,0,0,0
+C0107951,2026-07-13 23:30:49.159305,B048,GENERAL,Signed paperwork for savings account.,0,0,0
+C0107954,2026-08-02 21:33:44.371551,B062,GENERAL,Signed paperwork for savings account.,0,0,0
+C0107962,2026-06-15 09:09:20.301021,B029,GENERAL,Discussed CD options.,0,0,0
+C0107974,2026-07-19 18:15:11.112063,B009,TELLER,Client came in to update address on file.,0,0,0
+C0107989,2026-07-25 05:10:13.959367,B027,ACCOUNT_SERVICE,Signed paperwork for savings account.,0,0,0
+C0107998,2026-08-30 08:03:17.892885,B026,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,0,1
+C0107999,2026-08-29 21:14:09.388886,B118,GENERAL,Discussed CD options.,0,0,0
+C0108006,2026-08-17 21:24:38.090557,B020,TELLER,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0108007,2026-06-16 10:08:53.629796,B066,ACCOUNT_SERVICE,Signed paperwork for savings account.,0,0,0
+C0108012,2026-08-05 09:31:15.470758,B087,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,0,1
+C0108019,2026-06-20 09:00:20.850331,B098,ACCOUNT_SERVICE,Signed paperwork for savings account.,0,0,0
+C0108025,2026-08-01 00:37:27.572937,B119,ACCOUNT_SERVICE,Client came in to update address on file.,0,0,0
+C0108027,2026-07-08 16:52:48.985033,B100,GENERAL,Client came in to update address on file.,0,0,0
+C0108032,2026-08-09 11:05:30.291844,B095,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,1,1
+C0108047,2026-08-09 21:24:59.527432,B004,ACCOUNT_SERVICE,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0108054,2026-08-03 15:22:11.307028,B038,ACCOUNT_SERVICE,Signed paperwork for savings account.,0,0,0
+C0108062,2026-08-24 15:03:44.011339,B024,GENERAL,Signed paperwork for savings account.,0,0,0
+C0108073,2026-07-09 01:01:48.045160,B014,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0108092,2026-08-09 12:35:50.793179,B039,ACCOUNT_SERVICE,Client came in to update address on file.,0,0,0
+C0108093,2026-06-29 02:40:51.925696,B109,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,0,1
+C0108098,2026-08-27 22:39:05.202708,B025,GENERAL,Signed paperwork for savings account.,0,0,0
+C0108099,2026-08-26 11:37:25.755870,B053,ACCOUNT_SERVICE,Signed paperwork for savings account.,0,0,0
+C0108100,2026-08-20 16:03:46.479480,B061,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0108101,2026-06-22 05:33:49.594862,B059,ACCOUNT_SERVICE,Discussed CD options.,0,0,0
+C0108110,2026-07-28 21:11:45.731011,B090,ACCOUNT_SERVICE,Signed paperwork for savings account.,0,0,0
+C0108120,2026-07-26 06:53:08.398222,B106,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,0,1
+C0108128,2026-07-01 05:24:49.931779,B106,GENERAL,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0108131,2026-07-07 09:30:09.927126,B043,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0108135,2026-08-14 04:25:11.193010,B115,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,0,1
+C0108140,2026-06-21 05:33:03.901253,B031,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0108169,2026-08-15 04:12:09.478324,B022,TELLER,Client came in to update address on file.,0,0,0
+C0108170,2026-09-09 23:21:52.775905,B010,GENERAL,Discussed CD options.,0,0,0
+C0108175,2026-09-06 11:30:33.640114,B062,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,1,1
+C0108183,2026-08-21 21:04:00.867814,B110,TELLER,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0108191,2026-08-14 01:52:04.512514,B039,GENERAL,Client came in to update address on file.,0,0,0
+C0108209,2026-09-01 15:44:13.437182,B081,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,0,1
+C0108213,2026-08-13 15:57:27.184904,B034,TELLER,Discussed CD options.,0,0,0
+C0108219,2026-07-12 08:15:50.312826,B021,ACCOUNT_SERVICE,Discussed CD options.,0,0,0
+C0108226,2026-06-15 04:50:41.612968,B085,GENERAL,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0108238,2026-08-25 23:37:53.692325,B104,TELLER,Discussed CD options.,0,0,0
+C0108253,2026-07-29 03:11:42.595220,B036,TELLER,Discussed CD options.,0,0,0
+C0108254,2026-09-04 15:29:50.455588,B106,ACCOUNT_SERVICE,Discussed CD options.,0,0,0
+C0108259,2026-06-18 13:48:41.719092,B061,ACCOUNT_SERVICE,Discussed CD options.,0,0,0
+C0108261,2026-06-18 23:48:32.139467,B072,GENERAL,Discussed CD options.,0,0,0
+C0108270,2026-06-19 14:13:53.299244,B052,TELLER,Client came in to update address on file.,0,0,0
+C0108279,2026-06-16 08:35:02.944573,B050,GENERAL,Discussed CD options.,0,0,0
+C0108281,2026-06-22 05:29:11.769993,B038,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,0,1
+C0108284,2026-08-07 15:35:23.968474,B070,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,0,1
+C0108288,2026-08-01 12:59:53.424307,B109,ACCOUNT_SERVICE,Signed paperwork for savings account.,0,0,0
+C0108289,2026-08-01 19:17:38.038562,B099,TELLER,Client came in to update address on file.,0,0,0
+C0108291,2026-08-25 02:11:20.856687,B029,TELLER,Client came in to update address on file.,0,0,0
+C0108295,2026-07-20 23:28:20.349530,B082,ACCOUNT_SERVICE,Discussed CD options.,0,0,0
+C0108309,2026-08-24 17:20:02.261934,B050,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,1,1
+C0108310,2026-08-24 00:17:37.734679,B083,TELLER,Client came in to update address on file.,0,0,0
+C0108324,2026-07-16 17:49:31.380130,B022,ACCOUNT_SERVICE,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0108327,2026-08-14 04:57:44.974117,B076,ACCOUNT_SERVICE,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0108328,2026-06-15 00:58:33.958580,B085,ACCOUNT_SERVICE,Client came in to update address on file.,0,0,0
+C0108331,2026-07-16 19:10:27.760305,B104,ACCOUNT_SERVICE,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0108338,2026-07-30 12:12:41.381169,B061,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,0,1
+C0108347,2026-08-29 11:57:45.332672,B016,ACCOUNT_SERVICE,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0108362,2026-07-13 12:58:10.735597,B072,TELLER,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0108372,2026-09-08 04:05:49.013860,B061,TELLER,Discussed CD options.,0,0,0
+C0108377,2026-08-02 12:40:07.927899,B071,TELLER,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0108383,2026-08-17 19:40:41.745643,B059,ACCOUNT_SERVICE,Discussed CD options.,0,0,0
+C0108386,2026-09-02 21:18:16.880460,B070,TELLER,Signed paperwork for savings account.,0,0,0
+C0108395,2026-07-04 08:49:43.034723,B070,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,1,1
+C0108401,2026-08-03 01:27:13.116484,B003,ACCOUNT_SERVICE,Discussed CD options.,0,0,0
+C0108403,2026-08-24 10:12:15.778608,B015,TELLER,Signed paperwork for savings account.,0,0,0
+C0108408,2026-08-07 15:32:25.800471,B019,GENERAL,Discussed CD options.,0,0,0
+C0108413,2026-06-25 18:17:07.024313,B060,GENERAL,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0108417,2026-08-27 10:58:57.548379,B030,ACCOUNT_SERVICE,Discussed CD options.,0,0,0
+C0108418,2026-08-15 11:33:19.577919,B035,ACCOUNT_SERVICE,Signed paperwork for savings account.,0,0,0
+C0108438,2026-07-12 04:39:35.081561,B021,TELLER,Client came in to update address on file.,0,0,0
+C0108440,2026-07-17 14:19:23.096411,B028,GENERAL,Client came in to update address on file.,0,0,0
+C0108448,2026-08-14 15:07:34.438006,B027,GENERAL,Client came in to update address on file.,0,0,0
+C0108470,2026-07-09 06:26:52.215036,B008,ACCOUNT_SERVICE,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0108472,2026-06-20 14:05:42.722703,B099,GENERAL,Client came in to update address on file.,0,0,0
+C0108475,2026-08-26 23:03:36.016462,B110,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0108479,2026-06-18 01:37:51.313842,B067,ACCOUNT_SERVICE,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0108483,2026-07-19 13:05:38.148473,B116,TELLER,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0108488,2026-08-28 04:19:58.219357,B076,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,0,1
+C0108489,2026-08-01 17:23:59.907766,B086,GENERAL,Discussed CD options.,0,0,0
+C0108496,2026-07-02 00:52:40.354427,B046,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0108510,2026-06-15 23:11:57.521636,B079,GENERAL,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0108511,2026-07-01 04:12:19.179939,B048,GENERAL,Signed paperwork for savings account.,0,0,0
+C0108516,2026-07-19 16:24:39.887052,B021,TELLER,Signed paperwork for savings account.,0,0,0
+C0108521,2026-08-05 05:19:09.885018,B045,TELLER,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0108533,2026-08-14 19:45:21.134588,B106,GENERAL,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0108535,2026-08-15 03:24:28.615505,B115,GENERAL,Discussed CD options.,0,0,0
+C0108536,2026-07-06 06:27:29.347688,B017,GENERAL,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0108542,2026-08-03 08:45:03.635920,B034,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,1,1
+C0108555,2026-08-03 20:53:29.927106,B051,ACCOUNT_SERVICE,Signed paperwork for savings account.,0,0,0
+C0108561,2026-08-07 15:16:57.227853,B066,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0108563,2026-07-08 06:16:50.811147,B081,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0108570,2026-07-12 02:12:05.092016,B010,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0108581,2026-09-09 01:15:33.981794,B112,GENERAL,Discussed CD options.,0,0,0
+C0108586,2026-07-19 06:07:14.435376,B005,TELLER,Signed paperwork for savings account.,0,0,0
+C0108590,2026-07-25 18:14:10.036396,B099,TELLER,Signed paperwork for savings account.,0,0,0
+C0108596,2026-08-09 20:54:18.591796,B116,GENERAL,Discussed CD options.,0,0,0
+C0108605,2026-08-20 09:54:56.235028,B111,ACCOUNT_SERVICE,Client came in to update address on file.,0,0,0
+C0108606,2026-07-01 13:00:23.020253,B076,GENERAL,Discussed CD options.,0,0,0
+C0108607,2026-08-17 06:30:44.010192,B062,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,1,1
+C0108611,2026-08-10 10:17:24.272981,B056,ACCOUNT_SERVICE,Client came in to update address on file.,0,0,0
+C0108615,2026-08-06 05:58:08.545536,B097,GENERAL,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0108616,2026-06-27 21:26:29.636156,B049,GENERAL,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0108619,2026-06-19 23:46:12.481540,B058,ACCOUNT_SERVICE,Client came in to update address on file.,0,0,0
+C0108647,2026-06-14 19:10:04.297710,B041,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,0,1
+C0108648,2026-07-03 13:24:17.272553,B029,TELLER,Signed paperwork for savings account.,0,0,0
+C0108649,2026-08-08 17:14:38.385618,B074,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0108652,2026-08-09 15:45:20.613302,B052,TELLER,Client came in to update address on file.,0,0,0
+C0108657,2026-09-05 11:18:42.560861,B060,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,0,1
+C0108661,2026-07-29 22:42:25.111523,B006,GENERAL,Client came in to update address on file.,0,0,0
+C0108664,2026-09-02 10:21:25.387823,B086,GENERAL,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0108665,2026-07-19 01:48:30.539569,B010,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,0,1
+C0108668,2026-07-13 03:25:02.004481,B025,ACCOUNT_SERVICE,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0108670,2026-06-19 20:44:09.094035,B054,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,0,1
+C0108675,2026-08-06 16:17:34.683308,B059,GENERAL,Discussed CD options.,0,0,0
+C0108698,2026-07-19 00:09:10.093021,B115,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,0,1
+C0108707,2026-09-07 19:03:34.917323,B006,TELLER,Signed paperwork for savings account.,0,0,0
+C0108709,2026-07-24 23:21:26.319626,B106,ACCOUNT_SERVICE,Discussed CD options.,0,0,0
+C0108711,2026-08-17 04:20:47.806483,B106,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0108714,2026-06-13 10:13:39.511017,B051,ACCOUNT_SERVICE,Discussed CD options.,0,0,0
+C0108716,2026-09-04 07:36:14.010847,B094,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0108717,2026-08-13 15:16:48.533627,B052,GENERAL,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0108733,2026-08-31 06:03:11.105744,B092,TELLER,Discussed CD options.,0,0,0
+C0108735,2026-09-04 20:53:00.537358,B012,TELLER,Client came in to update address on file.,0,0,0
+C0108745,2026-08-27 19:02:20.453883,B119,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,0,1
+C0108752,2026-09-08 12:33:51.439634,B052,ACCOUNT_SERVICE,Client came in to update address on file.,0,0,0
+C0108757,2026-08-20 04:15:03.183636,B059,GENERAL,Discussed CD options.,0,0,0
+C0108762,2026-07-08 13:59:15.228047,B071,ACCOUNT_SERVICE,Signed paperwork for savings account.,0,0,0
+C0108764,2026-08-14 06:25:36.904629,B073,GENERAL,Signed paperwork for savings account.,0,0,0
+C0108771,2026-07-19 02:19:16.562495,B073,ACCOUNT_SERVICE,Signed paperwork for savings account.,0,0,0
+C0108778,2026-09-09 05:09:49.620375,B050,TELLER,Client came in to update address on file.,0,0,0
+C0108786,2026-08-30 11:57:05.294562,B112,TELLER,Client came in to update address on file.,0,0,0
+C0108799,2026-08-11 20:25:34.048216,B089,ACCOUNT_SERVICE,Discussed CD options.,0,0,0
+C0108806,2026-06-15 14:03:06.390953,B021,ACCOUNT_SERVICE,Discussed CD options.,0,0,0
+C0108812,2026-08-10 12:55:46.800707,B054,TELLER,Discussed CD options.,0,0,0
+C0108827,2026-06-30 17:54:04.781930,B049,GENERAL,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0108828,2026-06-25 10:23:40.684693,B053,GENERAL,Client came in to update address on file.,0,0,0
+C0108832,2026-07-28 08:03:56.968631,B034,TELLER,Discussed CD options.,0,0,0
+C0108835,2026-08-14 09:31:09.904353,B096,ACCOUNT_SERVICE,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0108837,2026-07-18 07:55:00.343355,B101,GENERAL,Signed paperwork for savings account.,0,0,0
+C0108857,2026-07-05 20:16:05.114286,B092,ACCOUNT_SERVICE,Discussed CD options.,0,0,0
+C0108869,2026-06-20 11:20:13.652560,B106,GENERAL,Discussed CD options.,0,0,0
+C0108870,2026-08-10 07:21:27.234482,B118,ACCOUNT_SERVICE,Discussed CD options.,0,0,0
+C0108881,2026-09-05 16:27:09.776827,B103,GENERAL,Discussed CD options.,0,0,0
+C0108886,2026-07-22 19:52:17.851379,B006,GENERAL,Signed paperwork for savings account.,0,0,0
+C0108887,2026-07-16 18:39:38.393852,B080,GENERAL,Discussed CD options.,0,0,0
+C0108891,2026-07-29 19:26:27.283236,B102,TELLER,Client came in to update address on file.,0,0,0
+C0108896,2026-09-09 04:49:55.925083,B076,ACCOUNT_SERVICE,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0108899,2026-08-15 23:52:59.095495,B060,ACCOUNT_SERVICE,Client came in to update address on file.,0,0,0
+C0108907,2026-07-22 05:01:28.274913,B052,GENERAL,Signed paperwork for savings account.,0,0,0
+C0108909,2026-08-17 04:50:46.330244,B057,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,0,1
+C0108919,2026-08-12 11:09:43.875203,B022,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0108932,2026-07-21 13:16:30.556003,B010,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,0,1
+C0108935,2026-08-22 15:07:41.165039,B102,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0108938,2026-07-04 04:42:55.394094,B016,TELLER,Client came in to update address on file.,0,0,0
+C0108953,2026-08-25 14:40:52.880676,B117,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,1,1
+C0108962,2026-08-04 22:38:00.074580,B100,GENERAL,Signed paperwork for savings account.,0,0,0
+C0108966,2026-08-09 15:02:10.902425,B109,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0108971,2026-08-11 07:08:08.081762,B034,TELLER,Discussed CD options.,0,0,0
+C0108987,2026-06-14 03:44:19.138755,B012,TELLER,Client came in to update address on file.,0,0,0
+C0108988,2026-07-29 13:07:12.058200,B016,GENERAL,Signed paperwork for savings account.,0,0,0
+C0108994,2026-07-07 17:23:30.599757,B005,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,0,1
+C0108995,2026-08-10 19:00:23.834060,B014,ACCOUNT_SERVICE,Client came in to update address on file.,0,0,0
+C0108996,2026-08-28 23:09:39.912128,B070,GENERAL,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0108999,2026-08-27 06:30:36.253202,B006,GENERAL,Client came in to update address on file.,0,0,0
+C0109006,2026-07-02 01:23:14.047828,B103,TELLER,Client came in to update address on file.,0,0,0
+C0109018,2026-06-23 15:58:17.731961,B067,ACCOUNT_SERVICE,Discussed CD options.,0,0,0
+C0109019,2026-07-03 01:58:40.823001,B103,TELLER,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0109027,2026-08-26 22:58:44.643925,B024,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,0,1
+C0109037,2026-06-18 01:21:39.196137,B081,ACCOUNT_SERVICE,Discussed CD options.,0,0,0
+C0109045,2026-07-21 23:24:16.745148,B075,ACCOUNT_SERVICE,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0109047,2026-06-23 13:42:55.423514,B019,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,1,1
+C0109051,2026-08-03 05:20:57.087940,B034,GENERAL,Signed paperwork for savings account.,0,0,0
+C0109055,2026-09-01 06:39:04.751801,B012,GENERAL,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0109059,2026-07-17 04:52:34.078808,B063,GENERAL,Discussed CD options.,0,0,0
+C0109062,2026-08-20 22:06:12.839874,B119,ACCOUNT_SERVICE,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0109066,2026-07-12 11:40:54.329625,B068,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0109079,2026-08-03 00:49:33.685668,B023,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,0,1
+C0109081,2026-06-14 14:04:27.715132,B112,TELLER,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0109089,2026-07-13 16:26:35.044454,B016,TELLER,Client came in to update address on file.,0,0,0
+C0109093,2026-06-17 13:08:54.245716,B052,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,0,1
+C0109095,2026-08-31 18:00:28.778844,B061,ACCOUNT_SERVICE,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0109098,2026-06-16 20:16:11.498034,B109,TELLER,Discussed CD options.,0,0,0
+C0109102,2026-06-27 19:37:52.053006,B113,TELLER,Client came in to update address on file.,0,0,0
+C0109103,2026-07-23 04:56:23.788141,B068,ACCOUNT_SERVICE,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0109105,2026-08-13 20:00:21.863325,B029,TELLER,Signed paperwork for savings account.,0,0,0
+C0109109,2026-08-06 10:40:37.027351,B070,TELLER,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0109140,2026-07-12 17:31:21.408429,B035,ACCOUNT_SERVICE,Discussed CD options.,0,0,0
+C0109156,2026-06-26 03:52:19.383343,B048,TELLER,Client came in to update address on file.,0,0,0
+C0109159,2026-07-01 00:47:28.819917,B007,TELLER,Discussed CD options.,0,0,0
+C0109164,2026-08-16 15:49:49.150132,B064,TELLER,Discussed CD options.,0,0,0
+C0109200,2026-07-01 09:47:09.123570,B102,ACCOUNT_SERVICE,Discussed CD options.,0,0,0
+C0109204,2026-06-18 00:38:09.354876,B071,TELLER,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0109215,2026-08-29 14:10:07.759525,B090,TELLER,Signed paperwork for savings account.,0,0,0
+C0109221,2026-08-31 14:53:49.460446,B077,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,1,1
+C0109224,2026-07-26 20:52:28.596109,B003,ACCOUNT_SERVICE,Signed paperwork for savings account.,0,0,0
+C0109229,2026-07-30 22:30:45.484788,B090,TELLER,Signed paperwork for savings account.,0,0,0
+C0109240,2026-07-20 09:44:34.857227,B030,TELLER,Discussed CD options.,0,0,0
+C0109245,2026-09-08 14:45:21.038640,B112,ACCOUNT_SERVICE,Discussed CD options.,0,0,0
+C0109247,2026-08-29 04:31:38.712112,B089,GENERAL,Signed paperwork for savings account.,0,0,0
+C0109250,2026-09-03 19:19:11.102701,B054,TELLER,Client came in to update address on file.,0,0,0
+C0109259,2026-06-17 01:56:34.593514,B036,TELLER,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0109261,2026-07-22 20:43:32.297501,B080,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,0,1
+C0109265,2026-06-28 05:34:30.145605,B009,GENERAL,Client came in to update address on file.,0,0,0
+C0109270,2026-07-15 22:51:17.664927,B072,ACCOUNT_SERVICE,Signed paperwork for savings account.,0,0,0
+C0109271,2026-06-14 08:08:33.338109,B056,ACCOUNT_SERVICE,Client came in to update address on file.,0,0,0
+C0109272,2026-09-04 03:46:30.401203,B100,ACCOUNT_SERVICE,Client came in to update address on file.,0,0,0
+C0109279,2026-08-11 16:25:58.480904,B015,TELLER,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0109284,2026-09-01 21:17:13.492707,B029,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,1,1
+C0109292,2026-08-14 04:13:58.345507,B096,ACCOUNT_SERVICE,Signed paperwork for savings account.,0,0,0
+C0109293,2026-07-27 10:21:58.638397,B036,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,0,1
+C0109310,2026-06-14 07:50:05.452599,B016,ACCOUNT_SERVICE,Discussed CD options.,0,0,0
+C0109313,2026-08-10 03:31:47.665818,B067,ACCOUNT_SERVICE,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0109322,2026-08-19 23:51:54.010446,B086,TELLER,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0109341,2026-07-12 13:24:22.011208,B018,ACCOUNT_SERVICE,Signed paperwork for savings account.,0,0,0
+C0109342,2026-07-02 19:49:29.308297,B116,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0109345,2026-09-04 21:43:09.892800,B096,GENERAL,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0109346,2026-07-27 00:15:39.615534,B036,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,0,1
+C0109362,2026-08-13 05:44:35.362134,B018,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,0,1
+C0109364,2026-06-23 08:55:10.849694,B016,GENERAL,Discussed CD options.,0,0,0
+C0109365,2026-08-29 18:45:37.527669,B036,GENERAL,Signed paperwork for savings account.,0,0,0
+C0109370,2026-08-30 10:39:42.709174,B071,GENERAL,Signed paperwork for savings account.,0,0,0
+C0109374,2026-08-05 22:49:50.650061,B011,GENERAL,Signed paperwork for savings account.,0,0,0
+C0109375,2026-07-04 17:03:18.679910,B106,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0109383,2026-06-16 02:42:09.641559,B096,ACCOUNT_SERVICE,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0109384,2026-08-14 13:05:25.653372,B113,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,1,1
+C0109411,2026-06-30 17:56:12.110250,B038,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,1,1
+C0109414,2026-07-28 09:10:08.136230,B063,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,1,1
+C0109421,2026-08-17 13:17:59.508058,B106,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,0,1
+C0109431,2026-07-08 07:32:37.931303,B037,GENERAL,Discussed CD options.,0,0,0
+C0109433,2026-07-13 22:57:55.240230,B090,TELLER,Discussed CD options.,0,0,0
+C0109436,2026-07-30 13:37:44.213170,B118,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0109441,2026-06-13 22:00:41.093380,B060,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,1,1
+C0109442,2026-08-29 04:19:15.473568,B031,ACCOUNT_SERVICE,Discussed CD options.,0,0,0
+C0109446,2026-06-14 05:09:18.253275,B073,GENERAL,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0109461,2026-08-25 17:37:12.552432,B068,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0109463,2026-08-17 18:32:08.654037,B065,TELLER,Discussed CD options.,0,0,0
+C0109476,2026-07-29 03:53:05.986834,B024,TELLER,Signed paperwork for savings account.,0,0,0
+C0109481,2026-08-24 09:03:43.687081,B086,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,1,1
+C0109502,2026-07-11 09:06:56.077231,B052,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0109517,2026-08-02 14:09:58.794288,B016,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,1,1
+C0109518,2026-06-19 00:30:31.366839,B035,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,1,1
+C0109522,2026-07-21 02:31:19.793471,B041,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0109523,2026-06-16 09:29:16.219270,B005,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0109528,2026-07-06 03:25:03.715715,B117,TELLER,Signed paperwork for savings account.,0,0,0
+C0109530,2026-07-05 05:41:28.265785,B005,ACCOUNT_SERVICE,Signed paperwork for savings account.,0,0,0
+C0109540,2026-07-06 06:33:16.112399,B119,GENERAL,Discussed CD options.,0,0,0
+C0109550,2026-07-11 09:46:23.298126,B087,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0109560,2026-09-06 14:37:05.456180,B066,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,1,1
+C0109567,2026-07-26 04:31:44.114898,B088,ACCOUNT_SERVICE,Discussed CD options.,0,0,0
+C0109584,2026-06-22 07:18:22.473635,B013,TELLER,Discussed CD options.,0,0,0
+C0109591,2026-06-30 20:45:45.461585,B022,TELLER,Client came in to update address on file.,0,0,0
+C0109600,2026-08-16 15:27:47.230399,B080,GENERAL,Discussed CD options.,0,0,0
+C0109604,2026-08-17 20:53:43.048826,B066,GENERAL,Client came in to update address on file.,0,0,0
+C0109609,2026-09-03 16:46:43.460536,B062,ACCOUNT_SERVICE,Discussed CD options.,0,0,0
+C0109624,2026-08-29 14:02:54.951483,B097,ACCOUNT_SERVICE,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0109625,2026-06-27 16:14:21.910427,B005,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,0,1
+C0109629,2026-06-29 05:40:58.103508,B063,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0109643,2026-09-10 10:08:06.891507,B002,TELLER,Discussed CD options.,0,0,0
+C0109645,2026-07-15 09:19:19.377340,B049,TELLER,Signed paperwork for savings account.,0,0,0
+C0109647,2026-07-15 14:08:22.316581,B102,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,0,1
+C0109657,2026-08-12 06:57:56.488727,B015,ACCOUNT_SERVICE,Signed paperwork for savings account.,0,0,0
+C0109659,2026-08-23 15:38:53.312388,B015,GENERAL,Signed paperwork for savings account.,0,0,0
+C0109669,2026-07-31 17:17:20.692722,B023,ACCOUNT_SERVICE,Discussed CD options.,0,0,0
+C0109674,2026-06-28 04:18:02.853379,B002,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0109677,2026-06-15 05:51:07.016428,B049,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0109680,2026-09-09 15:49:35.096083,B088,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,0,1
+C0109696,2026-06-28 04:40:57.574833,B103,TELLER,Discussed CD options.,0,0,0
+C0109698,2026-08-22 15:14:41.001538,B017,GENERAL,Client came in to update address on file.,0,0,0
+C0109703,2026-07-04 21:46:24.573908,B073,TELLER,Discussed CD options.,0,0,0
+C0109709,2026-06-19 23:49:59.566712,B081,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,1,1
+C0109722,2026-07-23 09:59:13.574030,B061,GENERAL,Discussed CD options.,0,0,0
+C0109727,2026-06-21 06:24:37.093787,B021,ACCOUNT_SERVICE,Discussed CD options.,0,0,0
+C0109745,2026-08-17 20:11:21.963558,B013,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,0,1
+C0109749,2026-08-23 19:47:34.664452,B111,GENERAL,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0109756,2026-07-29 09:07:28.062026,B054,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,1,1
+C0109758,2026-08-15 00:06:22.171183,B019,TELLER,Client came in to update address on file.,0,0,0
+C0109763,2026-07-13 00:03:41.140205,B083,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0109769,2026-06-20 10:43:38.275310,B089,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0109778,2026-08-16 16:22:34.072720,B117,TELLER,Client came in to update address on file.,0,0,0
+C0109782,2026-07-21 15:41:39.994599,B062,GENERAL,Discussed CD options.,0,0,0
+C0109785,2026-07-11 01:51:44.048303,B028,GENERAL,Client came in to update address on file.,0,0,0
+C0109820,2026-06-22 00:48:29.880933,B042,ACCOUNT_SERVICE,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0109821,2026-08-27 20:18:00.628241,B018,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,1,1
+C0109823,2026-07-03 11:27:11.681343,B001,GENERAL,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0109824,2026-06-24 17:41:45.507694,B067,TELLER,Signed paperwork for savings account.,0,0,0
+C0109826,2026-07-20 13:15:39.198586,B001,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,1,1
+C0109829,2026-07-19 00:38:57.182662,B110,ACCOUNT_SERVICE,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0109846,2026-06-22 00:47:01.332739,B051,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,0,1
+C0109847,2026-06-29 08:13:53.947288,B018,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,0,1
+C0109848,2026-09-03 07:26:10.723623,B077,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,0,1
+C0109859,2026-06-28 17:52:01.176493,B084,TELLER,Client came in to update address on file.,0,0,0
+C0109871,2026-07-10 02:48:14.645687,B019,MORTGAGE_CONSULT,Wanted to understand payoff process for the mortgage. Discussed remaining term.,1,0,1
+C0109872,2026-06-21 14:03:27.997730,B099,TELLER,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0109884,2026-06-29 03:51:24.752503,B052,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,1,1
+C0109889,2026-06-22 02:28:31.366032,B068,GENERAL,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0109891,2026-08-24 23:28:17.872832,B096,GENERAL,Client came in to update address on file.,0,0,0
+C0109899,2026-08-08 09:10:06.860866,B084,MORTGAGE_CONSULT,Discussion about current rates vs. their existing mortgage rate.,1,1,0
+C0109900,2026-07-03 01:19:50.081985,B061,ACCOUNT_SERVICE,Discussed CD options.,0,0,0
+C0109903,2026-06-23 21:40:31.483709,B053,TELLER,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0109909,2026-06-18 20:56:54.035029,B083,ACCOUNT_SERVICE,Discussed CD options.,0,0,0
+C0109912,2026-09-06 03:51:59.707735,B107,TELLER,Routine deposit; brief chat about upcoming home renovation.,0,0,0
+C0109916,2026-08-05 08:32:23.285871,B059,ACCOUNT_SERVICE,Client came in to update address on file.,0,0,0
+C0109917,2026-08-23 07:36:40.815883,B007,ACCOUNT_SERVICE,Signed paperwork for savings account.,0,0,0
+C0109930,2026-07-05 23:09:28.339200,B057,ACCOUNT_SERVICE,Client came in to update address on file.,0,0,0
+C0109937,2026-08-09 23:23:25.877250,B051,ACCOUNT_SERVICE,Discussed CD options.,0,0,0
+C0109969,2026-06-28 09:22:53.650398,B019,ACCOUNT_SERVICE,Discussed CD options.,0,0,0
+C0109972,2026-06-17 13:44:31.458671,B020,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,0,1
+C0109977,2026-07-30 04:28:02.047608,B104,MORTGAGE_CONSULT,Client came in asking about refinancing options; mentioned they are shopping around.,1,1,1
+C0109983,2026-07-27 23:22:13.731651,B021,GENERAL,Client came in to update address on file.,0,0,0
+C0109987,2026-09-02 16:16:14.663498,B072,GENERAL,Discussed CD options.,0,0,0
