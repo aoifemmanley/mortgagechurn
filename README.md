@@ -66,7 +66,7 @@ Then open [http://localhost:8501](http://localhost:8501) (or the port Streamlit 
 └── README.md
 ```
 
-## What's synthetic and why it matters
+## What's synthetic
 
 The purpose of this prototype is to demonstrate the *workflow*, not to prove specific ROI. The financial model that accompanies the case-study submission uses the case's stated portfolio and churn figures, not numbers from this prototype.
 
